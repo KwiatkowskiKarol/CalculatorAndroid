@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="amountTextView" type="id" />
+    <item name="percentTextView" type="id" />
+    <item name="tipTextView" type="id" />
+    <item name="totalTextView" type="id" />
+    <item name="amountEditText" type="id" />
+    <item name="percentSeekBar" type="id" />
+    <item name="editText1" type="id" />
+    <item name="editText2" type="id" />
+    <item name="TextView4" type="id" />
+    <item name="TextView3" type="id" />
+    <item name="button1" type="id" />
+</resources>
