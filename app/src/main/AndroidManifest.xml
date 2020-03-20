@@ -15,6 +15,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.s15752.CalculatorBMI.StartScreen"></activity>
+        <activity android:name="com.s15752.CalculatorBMI.CalculateBMI"></activity>
     </application>
 </manifest>

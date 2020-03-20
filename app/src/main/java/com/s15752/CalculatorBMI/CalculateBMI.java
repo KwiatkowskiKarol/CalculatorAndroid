@@ -11,7 +11,8 @@ package com.s15752.CalculatorBMI;
 
         import java.text.DecimalFormat;
 
-public class CalculateBMI extends Activity implements View.OnClickListener
+public class
+CalculateBMI extends Activity implements View.OnClickListener
 {
     EditText ht, wt;
     TextView result, bmival;

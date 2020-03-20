@@ -8,7 +8,7 @@ import android.widget.Button;
 
 import com.learn2crack.activities.R;
 
-public class MainActivity extends Activity{
+public class MainActivity extends Activity {
 
     private Button mBtLaunchActivity;
 
