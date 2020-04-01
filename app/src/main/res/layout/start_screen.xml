@@ -30,9 +30,26 @@
         android:id="@+id/bt_launch_activity"
         android:layout_width="168dp"
         android:layout_height="50dp"
-        android:layout_marginTop="340dp"
-        android:layout_marginLeft="120dp"
-        android:text="Let's go!" />
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="30dp"
+        android:text="Calculate BMI" />
+
+    <Button
+        android:id="@+id/quiz"
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="210dp"
+        android:text="COVID-19 GAME" />
+
+    <Button
+        android:id="@+id/game"
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginLeft="30dp"
+        android:text="COVID-19 QUIZ" />
+
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
