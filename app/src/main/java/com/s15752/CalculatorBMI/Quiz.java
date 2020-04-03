@@ -1,7 +1,7 @@
 // MainActivity.java
 // Hosts the MainActivityFragment on a phone and both the
 // MainActivityFragment and SettingsActivityFragment on a tablet
-package com.s15752.CalculatorBMI
+package com.s15752.CalculatorBMI;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -10,15 +10,15 @@ import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import androidx.appcompat.widget.Toolbar;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
-
+import com.learn2crack.activities.R;
 import java.util.Set;
 
-public class Quiz extends Activity {
+public class Quiz extends AppCompatActivity {
    // keys for reading data from SharedPreferences
    public static final String CHOICES = "pref_numberOfChoices";
    public static final String REGIONS = "pref_regionsToInclude";
@@ -54,7 +54,7 @@ public class Quiz extends Activity {
       // if running on phone-sized device, allow only portrait orientation
       if (phoneDevice)
          setRequestedOrientation(
-            ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+            ActivityInfo.SCREEN_ORIENTATION_UNSPECIFIED);
    }
 
    // called after onCreate completes execution
@@ -65,7 +65,7 @@ public class Quiz extends Activity {
       if (preferencesChanged) {
          // now that the default preferences have been set,
          // initialize MainActivityFragment and start the quiz
-         MainActivityFrQuiz quizFragment = (MainActivityFragmentQuiz)
+         MainActivityFragmentQuiz quizFragment = (MainActivityFragmentQuiz)
             getSupportFragmentManager().findFragmentById(
                R.id.quizFragment);
          quizFragment.updateGuessRows(
@@ -134,13 +134,13 @@ public class Quiz extends Activity {
                   editor.putStringSet(REGIONS, regions);
                   editor.apply();
 
-                  Toast.makeText(com.deitel.flagquiz.Quiz.this,
+                  Toast.makeText(com.s15752.CalculatorBMI.Quiz.this,
                      R.string.default_region_message,
                      Toast.LENGTH_SHORT).show();
                }
             }
 
-            Toast.makeText(com.deitel.flagquiz.Quiz.this,
+            Toast.makeText(com.s15752.CalculatorBMI.Quiz.this,
                R.string.restarting_quiz,
                Toast.LENGTH_SHORT).show();
          }

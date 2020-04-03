@@ -4,7 +4,7 @@
    xmlns:tools="http://schemas.android.com/tools"
    android:layout_width="match_parent"
    android:layout_height="match_parent"
-   tools:context="com.s15752.CalculatorBMI.Game"
+   tools:context="com.s15752.CalculatorBMI.MainActivity"
    android:id="@+id/fragment"
    android:name="com.s15752.CalculatorBMI.MainActivityFragment"
    tools:layout="@layout/fragment_main">

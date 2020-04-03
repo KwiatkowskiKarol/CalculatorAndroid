@@ -29,6 +29,7 @@ import androidx.annotation.RequiresApi;
 import java.util.ArrayList;
 import java.util.Random;
 
+@SuppressWarnings("ALL")
 public class CannonView extends SurfaceView
    implements SurfaceHolder.Callback {
 
@@ -305,6 +306,7 @@ public class CannonView extends SurfaceView
                builder.setPositiveButton(R.string.reset_game,
                   new DialogInterface.OnClickListener() {
                      // called when "Reset Game" Button is pressed
+                     @RequiresApi(api = Build.VERSION_CODES.M)
                      @Override
                      public void onClick(DialogInterface dialog,
                         int which) {

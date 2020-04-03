@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="regions_list" />
+    <string-array name="regions_list_for_settings" />
+    <string-array name="guesses_list" />
+</resources>

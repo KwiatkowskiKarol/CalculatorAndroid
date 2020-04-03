@@ -18,10 +18,9 @@ import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.graphics.drawable.Drawable;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v4.app.DialogFragment;
-import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,7 +33,10 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import com.learn2crack.activities.R;
 
+import androidx.annotation.RequiresApi;
+import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.Fragment;
 
 public class MainActivityFragmentQuiz extends Fragment {
@@ -113,7 +115,7 @@ public class MainActivityFragmentQuiz extends Fragment {
    public void updateGuessRows(SharedPreferences sharedPreferences) {
       // get the number of guess buttons that should be displayed
       String choices =
-         sharedPreferences.getString(MainActivity.CHOICES, null);
+         sharedPreferences.getString(Quiz.CHOICES, null);
       guessRows = Integer.parseInt(choices) / 2;
 
       // hide all quess button LinearLayouts
@@ -128,7 +130,7 @@ public class MainActivityFragmentQuiz extends Fragment {
    // update world regions for quiz based on values in SharedPreferences
    public void updateRegions(SharedPreferences sharedPreferences) {
       regionsSet =
-         sharedPreferences.getStringSet(MainActivity.REGIONS, null);
+         sharedPreferences.getStringSet(Quiz.REGIONS, null);
    }
 
    // set up and start the next quiz
@@ -176,6 +178,7 @@ public class MainActivityFragmentQuiz extends Fragment {
    }
 
    // after the user guesses a correct flag, load the next flag
+   @RequiresApi(api = Build.VERSION_CODES.KITKAT)
    private void loadNextFlag() {
       // get file name of the next flag and remove it from the list
       String nextImage = quizCountriesList.remove(0);
@@ -243,6 +246,7 @@ public class MainActivityFragmentQuiz extends Fragment {
    }
 
    // animates the entire quizLinearLayout on or off screen
+   @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
    private void animate(boolean animateOut) {
       // prevent animation into the the UI for the first flag
       if (correctAnswers == 0)
@@ -286,6 +290,7 @@ public class MainActivityFragmentQuiz extends Fragment {
 
    // called when a guess Button is touched
    private OnClickListener guessButtonListener = new OnClickListener() {
+      @RequiresApi(api = Build.VERSION_CODES.M)
       @Override
       public void onClick(View v) {
          Button guessButton = ((Button) v);

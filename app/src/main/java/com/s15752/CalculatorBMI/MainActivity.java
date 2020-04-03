@@ -5,14 +5,16 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RadioButton;
 
 import com.learn2crack.activities.R;
 
-public class MainActivity extends Activity {
+public class MainActivity extends Activity{
 
     private Button mBtLaunchActivity;
-    private Button gameLaunchActivity;
-    private Button quizLaunchActivity;
+    private Button game;
+    private Button quiz;
+    public String manorwoman;
 
     @Override
     protected void onCreate(Bundle savedInstanceSate)
@@ -24,32 +26,39 @@ public class MainActivity extends Activity {
         mBtLaunchActivity.setOnClickListener(new View.OnClickListener() {
 
             @Override
-            public void onClick(View view)
-            {
-                launchActivityCalculateBMI();
-            }
+            public void onClick(View view) {
 
-            gameLaunchActivity = (Button) findViewById(R.id.game);
-        gameLaunchActivity.setOnClickListener(new View.OnClickListener() {
+                launchActivity();
+            }
+        });
+
+
+        game = (Button) findViewById(R.id.game);
+        game.setOnClickListener(new View.OnClickListener() {
 
             @Override
-            public void onClick(View view)
-            {
-                launchActivityCalculateBMI();
-            }
+            public void onClick(View view) {
 
-        quizLaunchActivity = (Button) findViewById(R.id.bt_launch_activity);
-        quizLaunchActivity.setOnClickListener(new View.OnClickListener() {
+                launchActivityGame();
+            }
+        });
+
+
+
+
+
+        quiz = (Button) findViewById(R.id.quiz);
+        quiz.setOnClickListener(new View.OnClickListener() {
 
             @Override
-            public void onClick(View view)
-            {
-                launchActivityCalculateBMI();
+            public void onClick(View view) {
+
+                launchActivityQuiz();
             }
-    });
+        });
     }
 
-    private void launchActivityCalculateBMI()
+    private void launchActivity()
     {
         Intent intent = new Intent(this, CalculateBMI.class);
         startActivity(intent);
@@ -57,7 +66,7 @@ public class MainActivity extends Activity {
 
     private void launchActivityGame()
     {
-        Intent intent = new Intent(this, Game.class);
+        Intent intent = new Intent(this, GameElement.class);
         startActivity(intent);
     }
 
@@ -65,5 +74,22 @@ public class MainActivity extends Activity {
     {
         Intent intent = new Intent(this, Quiz.class);
         startActivity(intent);
+    }
+
+    public void onRadioButtonClicked(View view) {
+        // Is the button now checked?
+        boolean checked = ((RadioButton) view).isChecked();
+
+        // Check which radio button was clicked
+        switch(view.getId()) {
+            case R.id.man:
+                if (checked)
+                    manorwoman = "man";
+                break;
+            case R.id.woman:
+                if (checked)
+                    manorwoman = "woman";
+                break;
+        }
     }
 }

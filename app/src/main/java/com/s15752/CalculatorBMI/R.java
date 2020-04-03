@@ -22,1340 +22,1340 @@ public final class R {
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarDivider=0x7f010063;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarItemBackground=0x7f010064;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarPopupTheme=0x7f01005d;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-<p>May be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
-</table>
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         <p>May be one of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
+         </table>
          */
         public static final int actionBarSize=0x7f010062;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarSplitStyle=0x7f01005f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarStyle=0x7f01005e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarTabBarStyle=0x7f010059;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarTabStyle=0x7f010058;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarTabTextStyle=0x7f01005a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarTheme=0x7f010060;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionBarWidgetTheme=0x7f010061;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionButtonStyle=0x7f01007d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionDropDownStyle=0x7f010079;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionLayout=0x7f010034;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionMenuTextAppearance=0x7f010065;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int actionMenuTextColor=0x7f010066;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeBackground=0x7f010069;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeCloseButtonStyle=0x7f010068;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeCloseDrawable=0x7f01006b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeCopyDrawable=0x7f01006d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeCutDrawable=0x7f01006c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeFindDrawable=0x7f010071;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModePasteDrawable=0x7f01006e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModePopupWindowStyle=0x7f010073;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeSelectAllDrawable=0x7f01006f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeShareDrawable=0x7f010070;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeSplitBackground=0x7f01006a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeStyle=0x7f010067;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionModeWebSearchDrawable=0x7f010072;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionOverflowButtonStyle=0x7f01005b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int actionOverflowMenuStyle=0x7f01005c;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int actionProviderClass=0x7f010036;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int actionViewClass=0x7f010035;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int activityChooserViewStyle=0x7f010085;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogButtonGroupStyle=0x7f0100a8;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int alertDialogCenterButtons=0x7f0100a9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogStyle=0x7f0100a7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int alertDialogTheme=0x7f0100aa;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int allowStacking=0x7f010025;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int arrowHeadLength=0x7f01002c;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int arrowShaftLength=0x7f01002d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int autoCompleteTextViewStyle=0x7f0100af;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int background=0x7f01000c;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int backgroundSplit=0x7f01000e;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int backgroundStacked=0x7f01000d;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int backgroundTint=0x7f0100cc;
         /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+         <tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+         <tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+         <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+         <tr><td><code>screen</code></td><td>15</td><td></td></tr>
+         </table>
          */
         public static final int backgroundTintMode=0x7f0100cd;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int barLength=0x7f01002e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int borderlessButtonStyle=0x7f010082;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarButtonStyle=0x7f01007f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarNegativeButtonStyle=0x7f0100ad;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarNeutralButtonStyle=0x7f0100ae;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarPositiveButtonStyle=0x7f0100ac;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonBarStyle=0x7f01007e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonPanelSideLayout=0x7f01001f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonStyle=0x7f0100b0;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int buttonStyleSmall=0x7f0100b1;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int buttonTint=0x7f010026;
         /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+         <tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+         <tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+         <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+         <tr><td><code>screen</code></td><td>15</td><td></td></tr>
+         </table>
          */
         public static final int buttonTintMode=0x7f010027;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int checkboxStyle=0x7f0100b2;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int checkedTextViewStyle=0x7f0100b3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int closeIcon=0x7f01003e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int closeItemLayout=0x7f01001c;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int collapseContentDescription=0x7f0100c3;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int collapseIcon=0x7f0100c2;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int color=0x7f010028;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorAccent=0x7f0100a0;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorButtonNormal=0x7f0100a4;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorControlActivated=0x7f0100a2;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorControlHighlight=0x7f0100a3;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorControlNormal=0x7f0100a1;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorPrimary=0x7f01009e;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorPrimaryDark=0x7f01009f;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int colorSwitchThumbNormal=0x7f0100a5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int commitIcon=0x7f010043;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int contentInsetEnd=0x7f010017;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int contentInsetLeft=0x7f010018;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int contentInsetRight=0x7f010019;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int contentInsetStart=0x7f010016;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int controlBackground=0x7f0100a6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int customNavigationLayout=0x7f01000f;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int defaultQueryHint=0x7f01003d;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int dialogPreferredPadding=0x7f010077;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dialogTheme=0x7f010076;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>useLogo</code></td><td>0x1</td><td></td></tr>
-<tr><td><code>showHome</code></td><td>0x2</td><td></td></tr>
-<tr><td><code>homeAsUp</code></td><td>0x4</td><td></td></tr>
-<tr><td><code>showTitle</code></td><td>0x8</td><td></td></tr>
-<tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
-<tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>none</code></td><td>0</td><td></td></tr>
+         <tr><td><code>useLogo</code></td><td>0x1</td><td></td></tr>
+         <tr><td><code>showHome</code></td><td>0x2</td><td></td></tr>
+         <tr><td><code>homeAsUp</code></td><td>0x4</td><td></td></tr>
+         <tr><td><code>showTitle</code></td><td>0x8</td><td></td></tr>
+         <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
+         <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
+         </table>
          */
         public static final int displayOptions=0x7f010005;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int divider=0x7f01000b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dividerHorizontal=0x7f010084;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int dividerPadding=0x7f010032;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dividerVertical=0x7f010083;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int drawableSize=0x7f01002a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int drawerArrowStyle=0x7f010000;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int dropDownListViewStyle=0x7f010096;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int dropdownListPreferredItemHeight=0x7f01007a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int editTextBackground=0x7f01008b;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int editTextColor=0x7f01008a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int editTextStyle=0x7f0100b4;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int elevation=0x7f01001a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int expandActivityOverflowButtonDrawable=0x7f01001e;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int gapBetweenBars=0x7f01002b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int goIcon=0x7f01003f;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int height=0x7f010001;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int hideOnContentScroll=0x7f010015;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int homeAsUpIndicator=0x7f01007c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int homeLayout=0x7f010010;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int icon=0x7f010009;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int iconifiedByDefault=0x7f01003b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int imageButtonStyle=0x7f01008c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int indeterminateProgressStyle=0x7f010012;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int initialActivityCount=0x7f01001d;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int isLightTheme=0x7f010002;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int itemPadding=0x7f010014;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int layout=0x7f01003a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listChoiceBackgroundIndicator=0x7f01009d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listDividerAlertDialog=0x7f010078;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listItemLayout=0x7f010023;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listLayout=0x7f010020;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int listPopupWindowStyle=0x7f010097;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int listPreferredItemHeight=0x7f010091;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int listPreferredItemHeightLarge=0x7f010093;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int listPreferredItemHeightSmall=0x7f010092;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int listPreferredItemPaddingLeft=0x7f010094;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int listPreferredItemPaddingRight=0x7f010095;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int logo=0x7f01000a;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int logoDescription=0x7f0100c6;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int maxButtonHeight=0x7f0100c1;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int measureWithLargestChild=0x7f010030;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int multiChoiceItemLayout=0x7f010021;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int navigationContentDescription=0x7f0100c5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int navigationIcon=0x7f0100c4;
         /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>normal</code></td><td>0</td><td></td></tr>
-<tr><td><code>listMode</code></td><td>1</td><td></td></tr>
-<tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>normal</code></td><td>0</td><td></td></tr>
+         <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
+         <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
+         </table>
          */
         public static final int navigationMode=0x7f010004;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int overlapAnchor=0x7f010038;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int paddingEnd=0x7f0100ca;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int paddingStart=0x7f0100c9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int panelBackground=0x7f01009a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int panelMenuListTheme=0x7f01009c;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int panelMenuListWidth=0x7f01009b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int popupMenuStyle=0x7f010088;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int popupTheme=0x7f01001b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int popupWindowStyle=0x7f010089;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int preserveIconSpacing=0x7f010037;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int progressBarPadding=0x7f010013;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int progressBarStyle=0x7f010011;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int queryBackground=0x7f010045;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int queryHint=0x7f01003c;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int radioButtonStyle=0x7f0100b5;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int ratingBarStyle=0x7f0100b6;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int searchHintIcon=0x7f010041;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int searchIcon=0x7f010040;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int searchViewStyle=0x7f010090;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int seekBarStyle=0x7f0100b7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int selectableItemBackground=0x7f010080;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int selectableItemBackgroundBorderless=0x7f010081;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>never</code></td><td>0</td><td></td></tr>
-<tr><td><code>ifRoom</code></td><td>1</td><td></td></tr>
-<tr><td><code>always</code></td><td>2</td><td></td></tr>
-<tr><td><code>withText</code></td><td>4</td><td></td></tr>
-<tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>never</code></td><td>0</td><td></td></tr>
+         <tr><td><code>ifRoom</code></td><td>1</td><td></td></tr>
+         <tr><td><code>always</code></td><td>2</td><td></td></tr>
+         <tr><td><code>withText</code></td><td>4</td><td></td></tr>
+         <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
+         </table>
          */
         public static final int showAsAction=0x7f010033;
         /** <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>beginning</code></td><td>1</td><td></td></tr>
-<tr><td><code>middle</code></td><td>2</td><td></td></tr>
-<tr><td><code>end</code></td><td>4</td><td></td></tr>
-</table>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>none</code></td><td>0</td><td></td></tr>
+         <tr><td><code>beginning</code></td><td>1</td><td></td></tr>
+         <tr><td><code>middle</code></td><td>2</td><td></td></tr>
+         <tr><td><code>end</code></td><td>4</td><td></td></tr>
+         </table>
          */
         public static final int showDividers=0x7f010031;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int showText=0x7f01004d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int singleChoiceItemLayout=0x7f010022;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int spinBars=0x7f010029;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int spinnerDropDownItemStyle=0x7f01007b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int spinnerStyle=0x7f0100b8;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int splitTrack=0x7f01004c;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int state_above_anchor=0x7f010039;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int submitBackground=0x7f010046;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int subtitle=0x7f010006;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int subtitleTextAppearance=0x7f0100bb;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int subtitleTextColor=0x7f0100c8;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int subtitleTextStyle=0x7f010008;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int suggestionRowLayout=0x7f010044;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int switchMinWidth=0x7f01004a;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int switchPadding=0x7f01004b;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int switchStyle=0x7f0100b9;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int switchTextAppearance=0x7f010049;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
          */
         public static final int textAllCaps=0x7f010024;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceLargePopupMenu=0x7f010074;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceListItem=0x7f010098;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceListItemSmall=0x7f010099;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceSearchResultSubtitle=0x7f01008e;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceSearchResultTitle=0x7f01008d;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int textAppearanceSmallPopupMenu=0x7f010075;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int textColorAlertDialogListItem=0x7f0100ab;
         /** <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
          */
         public static final int textColorSearchUrl=0x7f01008f;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int theme=0x7f0100cb;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int thickness=0x7f01002f;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int thumbTextPadding=0x7f010048;
         /** <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int title=0x7f010003;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleMarginBottom=0x7f0100c0;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleMarginEnd=0x7f0100be;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleMarginStart=0x7f0100bd;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleMarginTop=0x7f0100bf;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleMargins=0x7f0100bc;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int titleTextAppearance=0x7f0100ba;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int titleTextColor=0x7f0100c7;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int titleTextStyle=0x7f010007;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int toolbarNavigationButtonStyle=0x7f010087;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int toolbarStyle=0x7f010086;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int track=0x7f010047;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int voiceIcon=0x7f010042;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowActionBar=0x7f01004e;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowActionBarOverlay=0x7f010050;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowActionModeOverlay=0x7f010051;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowFixedHeightMajor=0x7f010055;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowFixedHeightMinor=0x7f010053;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowFixedWidthMajor=0x7f010052;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowFixedWidthMinor=0x7f010054;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowMinWidthMajor=0x7f010056;
         /** <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowMinWidthMinor=0x7f010057;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
          */
         public static final int windowNoTitle=0x7f01004f;
     }
@@ -2091,4135 +2091,3693 @@ containing a value of this type.
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.deitel.cannongame:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.deitel.cannongame:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.deitel.cannongame:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.deitel.cannongame:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.deitel.cannongame:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.deitel.cannongame:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.deitel.cannongame:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.deitel.cannongame:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.deitel.cannongame:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.deitel.cannongame:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.deitel.cannongame:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.deitel.cannongame:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.deitel.cannongame:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.deitel.cannongame:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.deitel.cannongame:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.deitel.cannongame:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.deitel.cannongame:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.deitel.cannongame:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.deitel.cannongame:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.deitel.cannongame:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.deitel.cannongame:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.deitel.cannongame:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.deitel.cannongame:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.deitel.cannongame:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.deitel.cannongame:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.deitel.cannongame:titleTextStyle}</code></td><td></td></tr>
-           </table>
-           @see #ActionBar_background
-           @see #ActionBar_backgroundSplit
-           @see #ActionBar_backgroundStacked
-           @see #ActionBar_contentInsetEnd
-           @see #ActionBar_contentInsetLeft
-           @see #ActionBar_contentInsetRight
-           @see #ActionBar_contentInsetStart
-           @see #ActionBar_customNavigationLayout
-           @see #ActionBar_displayOptions
-           @see #ActionBar_divider
-           @see #ActionBar_elevation
-           @see #ActionBar_height
-           @see #ActionBar_hideOnContentScroll
-           @see #ActionBar_homeAsUpIndicator
-           @see #ActionBar_homeLayout
-           @see #ActionBar_icon
-           @see #ActionBar_indeterminateProgressStyle
-           @see #ActionBar_itemPadding
-           @see #ActionBar_logo
-           @see #ActionBar_navigationMode
-           @see #ActionBar_popupTheme
-           @see #ActionBar_progressBarPadding
-           @see #ActionBar_progressBarStyle
-           @see #ActionBar_subtitle
-           @see #ActionBar_subtitleTextStyle
-           @see #ActionBar_title
-           @see #ActionBar_titleTextStyle
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ActionBar_background com.deitel.cannongame:background}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_backgroundSplit com.deitel.cannongame:backgroundSplit}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_backgroundStacked com.deitel.cannongame:backgroundStacked}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_contentInsetEnd com.deitel.cannongame:contentInsetEnd}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_contentInsetLeft com.deitel.cannongame:contentInsetLeft}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_contentInsetRight com.deitel.cannongame:contentInsetRight}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_contentInsetStart com.deitel.cannongame:contentInsetStart}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_customNavigationLayout com.deitel.cannongame:customNavigationLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_displayOptions com.deitel.cannongame:displayOptions}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_divider com.deitel.cannongame:divider}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_elevation com.deitel.cannongame:elevation}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_height com.deitel.cannongame:height}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_hideOnContentScroll com.deitel.cannongame:hideOnContentScroll}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.deitel.cannongame:homeAsUpIndicator}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_homeLayout com.deitel.cannongame:homeLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_icon com.deitel.cannongame:icon}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.deitel.cannongame:indeterminateProgressStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_itemPadding com.deitel.cannongame:itemPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_logo com.deitel.cannongame:logo}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_navigationMode com.deitel.cannongame:navigationMode}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_progressBarPadding com.deitel.cannongame:progressBarPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_progressBarStyle com.deitel.cannongame:progressBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_subtitle com.deitel.cannongame:subtitle}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_subtitleTextStyle com.deitel.cannongame:subtitleTextStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_title com.deitel.cannongame:title}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionBar_titleTextStyle com.deitel.cannongame:titleTextStyle}</code></td><td></td></tr>
+         </table>
+         @see #ActionBar_background
+         @see #ActionBar_backgroundSplit
+         @see #ActionBar_backgroundStacked
+         @see #ActionBar_contentInsetEnd
+         @see #ActionBar_contentInsetLeft
+         @see #ActionBar_contentInsetRight
+         @see #ActionBar_contentInsetStart
+         @see #ActionBar_customNavigationLayout
+         @see #ActionBar_displayOptions
+         @see #ActionBar_divider
+         @see #ActionBar_elevation
+         @see #ActionBar_height
+         @see #ActionBar_hideOnContentScroll
+         @see #ActionBar_homeAsUpIndicator
+         @see #ActionBar_homeLayout
+         @see #ActionBar_icon
+         @see #ActionBar_indeterminateProgressStyle
+         @see #ActionBar_itemPadding
+         @see #ActionBar_logo
+         @see #ActionBar_navigationMode
+         @see #ActionBar_popupTheme
+         @see #ActionBar_progressBarPadding
+         @see #ActionBar_progressBarStyle
+         @see #ActionBar_subtitle
+         @see #ActionBar_subtitleTextStyle
+         @see #ActionBar_title
+         @see #ActionBar_titleTextStyle
          */
         public static final int[] ActionBar = {
-            0x7f010001, 0x7f010003, 0x7f010004, 0x7f010005,
-            0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009,
-            0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
-            0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011,
-            0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015,
-            0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
-            0x7f01001a, 0x7f01001b, 0x7f01007c
+                0x7f010001, 0x7f010003, 0x7f010004, 0x7f010005,
+                0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009,
+                0x7f01000a, 0x7f01000b, 0x7f01000c, 0x7f01000d,
+                0x7f01000e, 0x7f01000f, 0x7f010010, 0x7f010011,
+                0x7f010012, 0x7f010013, 0x7f010014, 0x7f010015,
+                0x7f010016, 0x7f010017, 0x7f010018, 0x7f010019,
+                0x7f01001a, 0x7f01001b, 0x7f01007c
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#background}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:background
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#background}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:background
+         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundSplit}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:backgroundSplit
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundSplit}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:backgroundSplit
+         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundStacked}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:backgroundStacked
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundStacked}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:backgroundStacked
+         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetEnd}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetEnd
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetEnd}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetEnd
+         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetLeft}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetLeft
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetLeft}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetLeft
+         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetRight}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetRight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetRight}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetRight
+         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetStart}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetStart
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetStart}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetStart
+         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#customNavigationLayout}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:customNavigationLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#customNavigationLayout}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:customNavigationLayout
+         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#displayOptions}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>useLogo</code></td><td>0x1</td><td></td></tr>
-<tr><td><code>showHome</code></td><td>0x2</td><td></td></tr>
-<tr><td><code>homeAsUp</code></td><td>0x4</td><td></td></tr>
-<tr><td><code>showTitle</code></td><td>0x8</td><td></td></tr>
-<tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
-<tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:displayOptions
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#displayOptions}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be one or more (separated by '|') of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>none</code></td><td>0</td><td></td></tr>
+         <tr><td><code>useLogo</code></td><td>0x1</td><td></td></tr>
+         <tr><td><code>showHome</code></td><td>0x2</td><td></td></tr>
+         <tr><td><code>homeAsUp</code></td><td>0x4</td><td></td></tr>
+         <tr><td><code>showTitle</code></td><td>0x8</td><td></td></tr>
+         <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
+         <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:displayOptions
+         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#divider}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:divider
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#divider}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:divider
+         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#elevation}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:elevation
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#elevation}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:elevation
+         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#height}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:height
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#height}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:height
+         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#hideOnContentScroll}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:hideOnContentScroll
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#hideOnContentScroll}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:hideOnContentScroll
+         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeAsUpIndicator}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:homeAsUpIndicator
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeAsUpIndicator}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:homeAsUpIndicator
+         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeLayout}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:homeLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeLayout}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:homeLayout
+         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#icon}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:icon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#icon}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:icon
+         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#indeterminateProgressStyle}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:indeterminateProgressStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#indeterminateProgressStyle}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:indeterminateProgressStyle
+         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#itemPadding}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:itemPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#itemPadding}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:itemPadding
+         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logo}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:logo
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logo}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:logo
+         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationMode}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>normal</code></td><td>0</td><td></td></tr>
-<tr><td><code>listMode</code></td><td>1</td><td></td></tr>
-<tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:navigationMode
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationMode}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be one of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>normal</code></td><td>0</td><td></td></tr>
+         <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
+         <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:navigationMode
+         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:popupTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:popupTheme
+         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#progressBarPadding}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:progressBarPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#progressBarPadding}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:progressBarPadding
+         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#progressBarStyle}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:progressBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#progressBarStyle}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:progressBarStyle
+         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitle}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:subtitle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitle}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:subtitle
+         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextStyle}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:subtitleTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextStyle}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:subtitleTextStyle
+         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#title}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:title
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#title}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:title
+         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextStyle}
-          attribute's value can be found in the {@link #ActionBar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:titleTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextStyle}
+         attribute's value can be found in the {@link #ActionBar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:titleTextStyle
+         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBarLayout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           </table>
-           @see #ActionBarLayout_android_layout_gravity
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ActionBarLayout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+         </table>
+         @see #ActionBarLayout_android_layout_gravity
          */
         public static final int[] ActionBarLayout = {
-            0x010100b3
+                0x010100b3
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
-          attribute's value can be found in the {@link #ActionBarLayout} array.
-          @attr name android:layout_gravity
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
+         attribute's value can be found in the {@link #ActionBarLayout} array.
+         @attr name android:layout_gravity
+         */
         public static final int ActionBarLayout_android_layout_gravity = 0;
         /** Attributes that can be used with a ActionMenuItemView.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMenuItemView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           </table>
-           @see #ActionMenuItemView_android_minWidth
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ActionMenuItemView_android_minWidth android:minWidth}</code></td><td></td></tr>
+         </table>
+         @see #ActionMenuItemView_android_minWidth
          */
         public static final int[] ActionMenuItemView = {
-            0x0101013f
+                0x0101013f
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#minWidth}
-          attribute's value can be found in the {@link #ActionMenuItemView} array.
-          @attr name android:minWidth
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#minWidth}
+         attribute's value can be found in the {@link #ActionMenuItemView} array.
+         @attr name android:minWidth
+         */
         public static final int ActionMenuItemView_android_minWidth = 0;
         /** Attributes that can be used with a ActionMenuView.
          */
         public static final int[] ActionMenuView = {
-            
+
         };
         /** Attributes that can be used with a ActionMode.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.deitel.cannongame:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.deitel.cannongame:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.deitel.cannongame:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.deitel.cannongame:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.deitel.cannongame:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.deitel.cannongame:titleTextStyle}</code></td><td></td></tr>
-           </table>
-           @see #ActionMode_background
-           @see #ActionMode_backgroundSplit
-           @see #ActionMode_closeItemLayout
-           @see #ActionMode_height
-           @see #ActionMode_subtitleTextStyle
-           @see #ActionMode_titleTextStyle
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ActionMode_background com.deitel.cannongame:background}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionMode_backgroundSplit com.deitel.cannongame:backgroundSplit}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionMode_closeItemLayout com.deitel.cannongame:closeItemLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionMode_height com.deitel.cannongame:height}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionMode_subtitleTextStyle com.deitel.cannongame:subtitleTextStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActionMode_titleTextStyle com.deitel.cannongame:titleTextStyle}</code></td><td></td></tr>
+         </table>
+         @see #ActionMode_background
+         @see #ActionMode_backgroundSplit
+         @see #ActionMode_closeItemLayout
+         @see #ActionMode_height
+         @see #ActionMode_subtitleTextStyle
+         @see #ActionMode_titleTextStyle
          */
         public static final int[] ActionMode = {
-            0x7f010001, 0x7f010007, 0x7f010008, 0x7f01000c,
-            0x7f01000e, 0x7f01001c
+                0x7f010001, 0x7f010007, 0x7f010008, 0x7f01000c,
+                0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#background}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:background
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#background}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:background
+         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundSplit}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:backgroundSplit
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundSplit}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:backgroundSplit
+         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#closeItemLayout}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:closeItemLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#closeItemLayout}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:closeItemLayout
+         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#height}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:height
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#height}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:height
+         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextStyle}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:subtitleTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextStyle}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:subtitleTextStyle
+         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextStyle}
-          attribute's value can be found in the {@link #ActionMode} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:titleTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextStyle}
+         attribute's value can be found in the {@link #ActionMode} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:titleTextStyle
+         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.deitel.cannongame:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.deitel.cannongame:initialActivityCount}</code></td><td></td></tr>
-           </table>
-           @see #ActivityChooserView_expandActivityOverflowButtonDrawable
-           @see #ActivityChooserView_initialActivityCount
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.deitel.cannongame:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.deitel.cannongame:initialActivityCount}</code></td><td></td></tr>
+         </table>
+         @see #ActivityChooserView_expandActivityOverflowButtonDrawable
+         @see #ActivityChooserView_initialActivityCount
          */
         public static final int[] ActivityChooserView = {
-            0x7f01001d, 0x7f01001e
+                0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#expandActivityOverflowButtonDrawable}
-          attribute's value can be found in the {@link #ActivityChooserView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:expandActivityOverflowButtonDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#expandActivityOverflowButtonDrawable}
+         attribute's value can be found in the {@link #ActivityChooserView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:expandActivityOverflowButtonDrawable
+         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#initialActivityCount}
-          attribute's value can be found in the {@link #ActivityChooserView} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:initialActivityCount
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#initialActivityCount}
+         attribute's value can be found in the {@link #ActivityChooserView} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:initialActivityCount
+         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.deitel.cannongame:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.deitel.cannongame:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.deitel.cannongame:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.deitel.cannongame:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.deitel.cannongame:singleChoiceItemLayout}</code></td><td></td></tr>
-           </table>
-           @see #AlertDialog_android_layout
-           @see #AlertDialog_buttonPanelSideLayout
-           @see #AlertDialog_listItemLayout
-           @see #AlertDialog_listLayout
-           @see #AlertDialog_multiChoiceItemLayout
-           @see #AlertDialog_singleChoiceItemLayout
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
+         <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.deitel.cannongame:buttonPanelSideLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #AlertDialog_listItemLayout com.deitel.cannongame:listItemLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #AlertDialog_listLayout com.deitel.cannongame:listLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.deitel.cannongame:multiChoiceItemLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.deitel.cannongame:singleChoiceItemLayout}</code></td><td></td></tr>
+         </table>
+         @see #AlertDialog_android_layout
+         @see #AlertDialog_buttonPanelSideLayout
+         @see #AlertDialog_listItemLayout
+         @see #AlertDialog_listLayout
+         @see #AlertDialog_multiChoiceItemLayout
+         @see #AlertDialog_singleChoiceItemLayout
          */
         public static final int[] AlertDialog = {
-            0x010100f2, 0x7f01001f, 0x7f010020, 0x7f010021,
-            0x7f010022, 0x7f010023
+                0x010100f2, 0x7f01001f, 0x7f010020, 0x7f010021,
+                0x7f010022, 0x7f010023
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-          @attr name android:layout
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         @attr name android:layout
+         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonPanelSideLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonPanelSideLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonPanelSideLayout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonPanelSideLayout
+         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:listItemLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listItemLayout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:listItemLayout
+         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:listLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listLayout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:listLayout
+         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#multiChoiceItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:multiChoiceItemLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#multiChoiceItemLayout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:multiChoiceItemLayout
+         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#singleChoiceItemLayout}
-          attribute's value can be found in the {@link #AlertDialog} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:singleChoiceItemLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#singleChoiceItemLayout}
+         attribute's value can be found in the {@link #AlertDialog} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:singleChoiceItemLayout
+         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.deitel.cannongame:textAllCaps}</code></td><td></td></tr>
-           </table>
-           @see #AppCompatTextView_android_textAppearance
-           @see #AppCompatTextView_textAllCaps
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #AppCompatTextView_textAllCaps com.deitel.cannongame:textAllCaps}</code></td><td></td></tr>
+         </table>
+         @see #AppCompatTextView_android_textAppearance
+         @see #AppCompatTextView_textAllCaps
          */
         public static final int[] AppCompatTextView = {
-            0x01010034, 0x7f010024
+                0x01010034, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
-          attribute's value can be found in the {@link #AppCompatTextView} array.
-          @attr name android:textAppearance
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+         attribute's value can be found in the {@link #AppCompatTextView} array.
+         @attr name android:textAppearance
+         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAllCaps}
-          attribute's value can be found in the {@link #AppCompatTextView} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.deitel.cannongame:textAllCaps
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAllCaps}
+         attribute's value can be found in the {@link #AppCompatTextView} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         @attr name com.deitel.cannongame:textAllCaps
+         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.deitel.cannongame:allowStacking}</code></td><td></td></tr>
-           </table>
-           @see #ButtonBarLayout_allowStacking
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ButtonBarLayout_allowStacking com.deitel.cannongame:allowStacking}</code></td><td></td></tr>
+         </table>
+         @see #ButtonBarLayout_allowStacking
          */
         public static final int[] ButtonBarLayout = {
-            0x7f010025
+                0x7f010025
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#allowStacking}
-          attribute's value can be found in the {@link #ButtonBarLayout} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:allowStacking
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#allowStacking}
+         attribute's value can be found in the {@link #ButtonBarLayout} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:allowStacking
+         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CompoundButton.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.deitel.cannongame:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.deitel.cannongame:buttonTintMode}</code></td><td></td></tr>
-           </table>
-           @see #CompoundButton_android_button
-           @see #CompoundButton_buttonTint
-           @see #CompoundButton_buttonTintMode
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
+         <tr><td><code>{@link #CompoundButton_buttonTint com.deitel.cannongame:buttonTint}</code></td><td></td></tr>
+         <tr><td><code>{@link #CompoundButton_buttonTintMode com.deitel.cannongame:buttonTintMode}</code></td><td></td></tr>
+         </table>
+         @see #CompoundButton_android_button
+         @see #CompoundButton_buttonTint
+         @see #CompoundButton_buttonTintMode
          */
         public static final int[] CompoundButton = {
-            0x01010107, 0x7f010026, 0x7f010027
+                0x01010107, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#button}
-          attribute's value can be found in the {@link #CompoundButton} array.
-          @attr name android:button
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#button}
+         attribute's value can be found in the {@link #CompoundButton} array.
+         @attr name android:button
+         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonTint}
-          attribute's value can be found in the {@link #CompoundButton} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:buttonTint
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonTint}
+         attribute's value can be found in the {@link #CompoundButton} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:buttonTint
+         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonTintMode}
-          attribute's value can be found in the {@link #CompoundButton} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:buttonTintMode
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonTintMode}
+         attribute's value can be found in the {@link #CompoundButton} array.
+         <p>Must be one of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+         <tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+         <tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+         <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+         <tr><td><code>screen</code></td><td>15</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:buttonTintMode
+         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.deitel.cannongame:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.deitel.cannongame:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.deitel.cannongame:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.deitel.cannongame:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.deitel.cannongame:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.deitel.cannongame:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.deitel.cannongame:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.deitel.cannongame:thickness}</code></td><td></td></tr>
-           </table>
-           @see #DrawerArrowToggle_arrowHeadLength
-           @see #DrawerArrowToggle_arrowShaftLength
-           @see #DrawerArrowToggle_barLength
-           @see #DrawerArrowToggle_color
-           @see #DrawerArrowToggle_drawableSize
-           @see #DrawerArrowToggle_gapBetweenBars
-           @see #DrawerArrowToggle_spinBars
-           @see #DrawerArrowToggle_thickness
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.deitel.cannongame:arrowHeadLength}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.deitel.cannongame:arrowShaftLength}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_barLength com.deitel.cannongame:barLength}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_color com.deitel.cannongame:color}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.deitel.cannongame:drawableSize}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.deitel.cannongame:gapBetweenBars}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_spinBars com.deitel.cannongame:spinBars}</code></td><td></td></tr>
+         <tr><td><code>{@link #DrawerArrowToggle_thickness com.deitel.cannongame:thickness}</code></td><td></td></tr>
+         </table>
+         @see #DrawerArrowToggle_arrowHeadLength
+         @see #DrawerArrowToggle_arrowShaftLength
+         @see #DrawerArrowToggle_barLength
+         @see #DrawerArrowToggle_color
+         @see #DrawerArrowToggle_drawableSize
+         @see #DrawerArrowToggle_gapBetweenBars
+         @see #DrawerArrowToggle_spinBars
+         @see #DrawerArrowToggle_thickness
          */
         public static final int[] DrawerArrowToggle = {
-            0x7f010028, 0x7f010029, 0x7f01002a, 0x7f01002b,
-            0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f
+                0x7f010028, 0x7f010029, 0x7f01002a, 0x7f01002b,
+                0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#arrowHeadLength}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:arrowHeadLength
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#arrowHeadLength}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:arrowHeadLength
+         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#arrowShaftLength}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:arrowShaftLength
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#arrowShaftLength}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:arrowShaftLength
+         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#barLength}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:barLength
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#barLength}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:barLength
+         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#color}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:color
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#color}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:color
+         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#drawableSize}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:drawableSize
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#drawableSize}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:drawableSize
+         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#gapBetweenBars}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:gapBetweenBars
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#gapBetweenBars}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:gapBetweenBars
+         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinBars}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:spinBars
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinBars}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:spinBars
+         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#thickness}
-          attribute's value can be found in the {@link #DrawerArrowToggle} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:thickness
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#thickness}
+         attribute's value can be found in the {@link #DrawerArrowToggle} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:thickness
+         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinearLayoutCompat.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.deitel.cannongame:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.deitel.cannongame:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.deitel.cannongame:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.deitel.cannongame:showDividers}</code></td><td></td></tr>
-           </table>
-           @see #LinearLayoutCompat_android_baselineAligned
-           @see #LinearLayoutCompat_android_baselineAlignedChildIndex
-           @see #LinearLayoutCompat_android_gravity
-           @see #LinearLayoutCompat_android_orientation
-           @see #LinearLayoutCompat_android_weightSum
-           @see #LinearLayoutCompat_divider
-           @see #LinearLayoutCompat_dividerPadding
-           @see #LinearLayoutCompat_measureWithLargestChild
-           @see #LinearLayoutCompat_showDividers
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_divider com.deitel.cannongame:divider}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.deitel.cannongame:dividerPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.deitel.cannongame:measureWithLargestChild}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_showDividers com.deitel.cannongame:showDividers}</code></td><td></td></tr>
+         </table>
+         @see #LinearLayoutCompat_android_baselineAligned
+         @see #LinearLayoutCompat_android_baselineAlignedChildIndex
+         @see #LinearLayoutCompat_android_gravity
+         @see #LinearLayoutCompat_android_orientation
+         @see #LinearLayoutCompat_android_weightSum
+         @see #LinearLayoutCompat_divider
+         @see #LinearLayoutCompat_dividerPadding
+         @see #LinearLayoutCompat_measureWithLargestChild
+         @see #LinearLayoutCompat_showDividers
          */
         public static final int[] LinearLayoutCompat = {
-            0x010100af, 0x010100c4, 0x01010126, 0x01010127,
-            0x01010128, 0x7f01000b, 0x7f010030, 0x7f010031,
-            0x7f010032
+                0x010100af, 0x010100c4, 0x01010126, 0x01010127,
+                0x01010128, 0x7f01000b, 0x7f010030, 0x7f010031,
+                0x7f010032
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-          @attr name android:baselineAligned
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#baselineAligned}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         @attr name android:baselineAligned
+         */
         public static final int LinearLayoutCompat_android_baselineAligned = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-          @attr name android:baselineAlignedChildIndex
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#baselineAlignedChildIndex}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         @attr name android:baselineAlignedChildIndex
+         */
         public static final int LinearLayoutCompat_android_baselineAlignedChildIndex = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#gravity}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-          @attr name android:gravity
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#gravity}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         @attr name android:gravity
+         */
         public static final int LinearLayoutCompat_android_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#orientation}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-          @attr name android:orientation
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#orientation}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         @attr name android:orientation
+         */
         public static final int LinearLayoutCompat_android_orientation = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#weightSum}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-          @attr name android:weightSum
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#weightSum}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         @attr name android:weightSum
+         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#divider}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:divider
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#divider}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:divider
+         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerPadding}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:dividerPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerPadding}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:dividerPadding
+         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#measureWithLargestChild}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:measureWithLargestChild
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#measureWithLargestChild}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:measureWithLargestChild
+         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showDividers}
-          attribute's value can be found in the {@link #LinearLayoutCompat} array.
-
-
-          <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>none</code></td><td>0</td><td></td></tr>
-<tr><td><code>beginning</code></td><td>1</td><td></td></tr>
-<tr><td><code>middle</code></td><td>2</td><td></td></tr>
-<tr><td><code>end</code></td><td>4</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:showDividers
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showDividers}
+         attribute's value can be found in the {@link #LinearLayoutCompat} array.
+         <p>Must be one or more (separated by '|') of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>none</code></td><td>0</td><td></td></tr>
+         <tr><td><code>beginning</code></td><td>1</td><td></td></tr>
+         <tr><td><code>middle</code></td><td>2</td><td></td></tr>
+         <tr><td><code>end</code></td><td>4</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:showDividers
+         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_height android:layout_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_weight android:layout_weight}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_width android:layout_width}</code></td><td></td></tr>
-           </table>
-           @see #LinearLayoutCompat_Layout_android_layout_gravity
-           @see #LinearLayoutCompat_Layout_android_layout_height
-           @see #LinearLayoutCompat_Layout_android_layout_weight
-           @see #LinearLayoutCompat_Layout_android_layout_width
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_height android:layout_height}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_weight android:layout_weight}</code></td><td></td></tr>
+         <tr><td><code>{@link #LinearLayoutCompat_Layout_android_layout_width android:layout_width}</code></td><td></td></tr>
+         </table>
+         @see #LinearLayoutCompat_Layout_android_layout_gravity
+         @see #LinearLayoutCompat_Layout_android_layout_height
+         @see #LinearLayoutCompat_Layout_android_layout_weight
+         @see #LinearLayoutCompat_Layout_android_layout_width
          */
         public static final int[] LinearLayoutCompat_Layout = {
-            0x010100b3, 0x010100f4, 0x010100f5, 0x01010181
+                0x010100b3, 0x010100f4, 0x010100f5, 0x01010181
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
-          attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
-          @attr name android:layout_gravity
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
+         attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
+         @attr name android:layout_gravity
+         */
         public static final int LinearLayoutCompat_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout_height}
-          attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
-          @attr name android:layout_height
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout_height}
+         attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
+         @attr name android:layout_height
+         */
         public static final int LinearLayoutCompat_Layout_android_layout_height = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout_weight}
-          attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
-          @attr name android:layout_weight
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout_weight}
+         attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
+         @attr name android:layout_weight
+         */
         public static final int LinearLayoutCompat_Layout_android_layout_weight = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout_width}
-          attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
-          @attr name android:layout_width
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout_width}
+         attribute's value can be found in the {@link #LinearLayoutCompat_Layout} array.
+         @attr name android:layout_width
+         */
         public static final int LinearLayoutCompat_Layout_android_layout_width = 1;
         /** Attributes that can be used with a ListPopupWindow.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ListPopupWindow_android_dropDownHorizontalOffset android:dropDownHorizontalOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #ListPopupWindow_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td></td></tr>
-           </table>
-           @see #ListPopupWindow_android_dropDownHorizontalOffset
-           @see #ListPopupWindow_android_dropDownVerticalOffset
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ListPopupWindow_android_dropDownHorizontalOffset android:dropDownHorizontalOffset}</code></td><td></td></tr>
+         <tr><td><code>{@link #ListPopupWindow_android_dropDownVerticalOffset android:dropDownVerticalOffset}</code></td><td></td></tr>
+         </table>
+         @see #ListPopupWindow_android_dropDownHorizontalOffset
+         @see #ListPopupWindow_android_dropDownVerticalOffset
          */
         public static final int[] ListPopupWindow = {
-            0x010102ac, 0x010102ad
+                0x010102ac, 0x010102ad
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
-          attribute's value can be found in the {@link #ListPopupWindow} array.
-          @attr name android:dropDownHorizontalOffset
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}
+         attribute's value can be found in the {@link #ListPopupWindow} array.
+         @attr name android:dropDownHorizontalOffset
+         */
         public static final int ListPopupWindow_android_dropDownHorizontalOffset = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
-          attribute's value can be found in the {@link #ListPopupWindow} array.
-          @attr name android:dropDownVerticalOffset
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#dropDownVerticalOffset}
+         attribute's value can be found in the {@link #ListPopupWindow} array.
+         @attr name android:dropDownVerticalOffset
+         */
         public static final int ListPopupWindow_android_dropDownVerticalOffset = 1;
         /** Attributes that can be used with a MenuGroup.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuGroup_android_checkableBehavior android:checkableBehavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuGroup_android_enabled android:enabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuGroup_android_id android:id}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuGroup_android_menuCategory android:menuCategory}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuGroup_android_orderInCategory android:orderInCategory}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuGroup_android_visible android:visible}</code></td><td></td></tr>
-           </table>
-           @see #MenuGroup_android_checkableBehavior
-           @see #MenuGroup_android_enabled
-           @see #MenuGroup_android_id
-           @see #MenuGroup_android_menuCategory
-           @see #MenuGroup_android_orderInCategory
-           @see #MenuGroup_android_visible
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #MenuGroup_android_checkableBehavior android:checkableBehavior}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuGroup_android_enabled android:enabled}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuGroup_android_id android:id}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuGroup_android_menuCategory android:menuCategory}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuGroup_android_orderInCategory android:orderInCategory}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuGroup_android_visible android:visible}</code></td><td></td></tr>
+         </table>
+         @see #MenuGroup_android_checkableBehavior
+         @see #MenuGroup_android_enabled
+         @see #MenuGroup_android_id
+         @see #MenuGroup_android_menuCategory
+         @see #MenuGroup_android_orderInCategory
+         @see #MenuGroup_android_visible
          */
         public static final int[] MenuGroup = {
-            0x0101000e, 0x010100d0, 0x01010194, 0x010101de,
-            0x010101df, 0x010101e0
+                0x0101000e, 0x010100d0, 0x01010194, 0x010101de,
+                0x010101df, 0x010101e0
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:checkableBehavior
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#checkableBehavior}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:checkableBehavior
+         */
         public static final int MenuGroup_android_checkableBehavior = 5;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#enabled}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:enabled
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#enabled}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:enabled
+         */
         public static final int MenuGroup_android_enabled = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#id}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:id
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#id}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:id
+         */
         public static final int MenuGroup_android_id = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:menuCategory
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:menuCategory
+         */
         public static final int MenuGroup_android_menuCategory = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:orderInCategory
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:orderInCategory
+         */
         public static final int MenuGroup_android_orderInCategory = 4;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#visible}
-          attribute's value can be found in the {@link #MenuGroup} array.
-          @attr name android:visible
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#visible}
+         attribute's value can be found in the {@link #MenuGroup} array.
+         @attr name android:visible
+         */
         public static final int MenuGroup_android_visible = 2;
         /** Attributes that can be used with a MenuItem.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.deitel.cannongame:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.deitel.cannongame:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.deitel.cannongame:actionViewClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_enabled android:enabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_icon android:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_id android:id}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_menuCategory android:menuCategory}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_orderInCategory android:orderInCategory}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.deitel.cannongame:showAsAction}</code></td><td></td></tr>
-           </table>
-           @see #MenuItem_actionLayout
-           @see #MenuItem_actionProviderClass
-           @see #MenuItem_actionViewClass
-           @see #MenuItem_android_alphabeticShortcut
-           @see #MenuItem_android_checkable
-           @see #MenuItem_android_checked
-           @see #MenuItem_android_enabled
-           @see #MenuItem_android_icon
-           @see #MenuItem_android_id
-           @see #MenuItem_android_menuCategory
-           @see #MenuItem_android_numericShortcut
-           @see #MenuItem_android_onClick
-           @see #MenuItem_android_orderInCategory
-           @see #MenuItem_android_title
-           @see #MenuItem_android_titleCondensed
-           @see #MenuItem_android_visible
-           @see #MenuItem_showAsAction
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #MenuItem_actionLayout com.deitel.cannongame:actionLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_actionProviderClass com.deitel.cannongame:actionProviderClass}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_actionViewClass com.deitel.cannongame:actionViewClass}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_enabled android:enabled}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_icon android:icon}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_id android:id}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_menuCategory android:menuCategory}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_orderInCategory android:orderInCategory}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuItem_showAsAction com.deitel.cannongame:showAsAction}</code></td><td></td></tr>
+         </table>
+         @see #MenuItem_actionLayout
+         @see #MenuItem_actionProviderClass
+         @see #MenuItem_actionViewClass
+         @see #MenuItem_android_alphabeticShortcut
+         @see #MenuItem_android_checkable
+         @see #MenuItem_android_checked
+         @see #MenuItem_android_enabled
+         @see #MenuItem_android_icon
+         @see #MenuItem_android_id
+         @see #MenuItem_android_menuCategory
+         @see #MenuItem_android_numericShortcut
+         @see #MenuItem_android_onClick
+         @see #MenuItem_android_orderInCategory
+         @see #MenuItem_android_title
+         @see #MenuItem_android_titleCondensed
+         @see #MenuItem_android_visible
+         @see #MenuItem_showAsAction
          */
         public static final int[] MenuItem = {
-            0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
-            0x01010194, 0x010101de, 0x010101df, 0x010101e1,
-            0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
-            0x0101026f, 0x7f010033, 0x7f010034, 0x7f010035,
-            0x7f010036
+                0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
+                0x01010194, 0x010101de, 0x010101df, 0x010101e1,
+                0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
+                0x0101026f, 0x7f010033, 0x7f010034, 0x7f010035,
+                0x7f010036
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionLayout}
-          attribute's value can be found in the {@link #MenuItem} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionLayout}
+         attribute's value can be found in the {@link #MenuItem} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionLayout
+         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionProviderClass}
-          attribute's value can be found in the {@link #MenuItem} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:actionProviderClass
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionProviderClass}
+         attribute's value can be found in the {@link #MenuItem} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:actionProviderClass
+         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionViewClass}
-          attribute's value can be found in the {@link #MenuItem} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:actionViewClass
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionViewClass}
+         attribute's value can be found in the {@link #MenuItem} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:actionViewClass
+         */
         public static final int MenuItem_actionViewClass = 15;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:alphabeticShortcut
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#alphabeticShortcut}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:alphabeticShortcut
+         */
         public static final int MenuItem_android_alphabeticShortcut = 9;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#checkable}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:checkable
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#checkable}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:checkable
+         */
         public static final int MenuItem_android_checkable = 11;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#checked}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:checked
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#checked}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:checked
+         */
         public static final int MenuItem_android_checked = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#enabled}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:enabled
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#enabled}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:enabled
+         */
         public static final int MenuItem_android_enabled = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#icon}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:icon
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#icon}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:icon
+         */
         public static final int MenuItem_android_icon = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#id}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:id
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#id}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:id
+         */
         public static final int MenuItem_android_id = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:menuCategory
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#menuCategory}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:menuCategory
+         */
         public static final int MenuItem_android_menuCategory = 5;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:numericShortcut
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#numericShortcut}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:numericShortcut
+         */
         public static final int MenuItem_android_numericShortcut = 10;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#onClick}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:onClick
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#onClick}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:onClick
+         */
         public static final int MenuItem_android_onClick = 12;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:orderInCategory
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#orderInCategory}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:orderInCategory
+         */
         public static final int MenuItem_android_orderInCategory = 6;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#title}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:title
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#title}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:title
+         */
         public static final int MenuItem_android_title = 7;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#titleCondensed}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:titleCondensed
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#titleCondensed}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:titleCondensed
+         */
         public static final int MenuItem_android_titleCondensed = 8;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#visible}
-          attribute's value can be found in the {@link #MenuItem} array.
-          @attr name android:visible
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#visible}
+         attribute's value can be found in the {@link #MenuItem} array.
+         @attr name android:visible
+         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showAsAction}
-          attribute's value can be found in the {@link #MenuItem} array.
-
-
-          <p>Must be one or more (separated by '|') of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>never</code></td><td>0</td><td></td></tr>
-<tr><td><code>ifRoom</code></td><td>1</td><td></td></tr>
-<tr><td><code>always</code></td><td>2</td><td></td></tr>
-<tr><td><code>withText</code></td><td>4</td><td></td></tr>
-<tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:showAsAction
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showAsAction}
+         attribute's value can be found in the {@link #MenuItem} array.
+         <p>Must be one or more (separated by '|') of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>never</code></td><td>0</td><td></td></tr>
+         <tr><td><code>ifRoom</code></td><td>1</td><td></td></tr>
+         <tr><td><code>always</code></td><td>2</td><td></td></tr>
+         <tr><td><code>withText</code></td><td>4</td><td></td></tr>
+         <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:showAsAction
+         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_horizontalDivider android:horizontalDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.deitel.cannongame:preserveIconSpacing}</code></td><td></td></tr>
-           </table>
-           @see #MenuView_android_headerBackground
-           @see #MenuView_android_horizontalDivider
-           @see #MenuView_android_itemBackground
-           @see #MenuView_android_itemIconDisabledAlpha
-           @see #MenuView_android_itemTextAppearance
-           @see #MenuView_android_verticalDivider
-           @see #MenuView_android_windowAnimationStyle
-           @see #MenuView_preserveIconSpacing
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_horizontalDivider android:horizontalDivider}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #MenuView_preserveIconSpacing com.deitel.cannongame:preserveIconSpacing}</code></td><td></td></tr>
+         </table>
+         @see #MenuView_android_headerBackground
+         @see #MenuView_android_horizontalDivider
+         @see #MenuView_android_itemBackground
+         @see #MenuView_android_itemIconDisabledAlpha
+         @see #MenuView_android_itemTextAppearance
+         @see #MenuView_android_verticalDivider
+         @see #MenuView_android_windowAnimationStyle
+         @see #MenuView_preserveIconSpacing
          */
         public static final int[] MenuView = {
-            0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x7f010037
+                0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
+                0x0101012f, 0x01010130, 0x01010131, 0x7f010037
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:headerBackground
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#headerBackground}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:headerBackground
+         */
         public static final int MenuView_android_headerBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:horizontalDivider
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#horizontalDivider}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:horizontalDivider
+         */
         public static final int MenuView_android_horizontalDivider = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:itemBackground
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#itemBackground}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:itemBackground
+         */
         public static final int MenuView_android_itemBackground = 5;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#itemIconDisabledAlpha}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:itemIconDisabledAlpha
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#itemIconDisabledAlpha}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:itemIconDisabledAlpha
+         */
         public static final int MenuView_android_itemIconDisabledAlpha = 6;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:itemTextAppearance
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#itemTextAppearance}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:itemTextAppearance
+         */
         public static final int MenuView_android_itemTextAppearance = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:verticalDivider
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#verticalDivider}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:verticalDivider
+         */
         public static final int MenuView_android_verticalDivider = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
-          attribute's value can be found in the {@link #MenuView} array.
-          @attr name android:windowAnimationStyle
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+         attribute's value can be found in the {@link #MenuView} array.
+         @attr name android:windowAnimationStyle
+         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#preserveIconSpacing}
-          attribute's value can be found in the {@link #MenuView} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:preserveIconSpacing
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#preserveIconSpacing}
+         attribute's value can be found in the {@link #MenuView} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:preserveIconSpacing
+         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.deitel.cannongame:overlapAnchor}</code></td><td></td></tr>
-           </table>
-           @see #PopupWindow_android_popupBackground
-           @see #PopupWindow_overlapAnchor
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #PopupWindow_overlapAnchor com.deitel.cannongame:overlapAnchor}</code></td><td></td></tr>
+         </table>
+         @see #PopupWindow_android_popupBackground
+         @see #PopupWindow_overlapAnchor
          */
         public static final int[] PopupWindow = {
-            0x01010176, 0x7f010038
+                0x01010176, 0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
-          attribute's value can be found in the {@link #PopupWindow} array.
-          @attr name android:popupBackground
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
+         attribute's value can be found in the {@link #PopupWindow} array.
+         @attr name android:popupBackground
+         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#overlapAnchor}
-          attribute's value can be found in the {@link #PopupWindow} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:overlapAnchor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#overlapAnchor}
+         attribute's value can be found in the {@link #PopupWindow} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:overlapAnchor
+         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.deitel.cannongame:state_above_anchor}</code></td><td></td></tr>
-           </table>
-           @see #PopupWindowBackgroundState_state_above_anchor
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.deitel.cannongame:state_above_anchor}</code></td><td></td></tr>
+         </table>
+         @see #PopupWindowBackgroundState_state_above_anchor
          */
         public static final int[] PopupWindowBackgroundState = {
-            0x7f010039
+                0x7f010039
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#state_above_anchor}
-          attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:state_above_anchor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#state_above_anchor}
+         attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:state_above_anchor
+         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SearchView_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.deitel.cannongame:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.deitel.cannongame:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.deitel.cannongame:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.deitel.cannongame:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.deitel.cannongame:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.deitel.cannongame:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.deitel.cannongame:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.deitel.cannongame:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.deitel.cannongame:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.deitel.cannongame:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.deitel.cannongame:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.deitel.cannongame:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.deitel.cannongame:voiceIcon}</code></td><td></td></tr>
-           </table>
-           @see #SearchView_android_focusable
-           @see #SearchView_android_imeOptions
-           @see #SearchView_android_inputType
-           @see #SearchView_android_maxWidth
-           @see #SearchView_closeIcon
-           @see #SearchView_commitIcon
-           @see #SearchView_defaultQueryHint
-           @see #SearchView_goIcon
-           @see #SearchView_iconifiedByDefault
-           @see #SearchView_layout
-           @see #SearchView_queryBackground
-           @see #SearchView_queryHint
-           @see #SearchView_searchHintIcon
-           @see #SearchView_searchIcon
-           @see #SearchView_submitBackground
-           @see #SearchView_suggestionRowLayout
-           @see #SearchView_voiceIcon
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #SearchView_android_focusable android:focusable}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_closeIcon com.deitel.cannongame:closeIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_commitIcon com.deitel.cannongame:commitIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_defaultQueryHint com.deitel.cannongame:defaultQueryHint}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_goIcon com.deitel.cannongame:goIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_iconifiedByDefault com.deitel.cannongame:iconifiedByDefault}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_layout com.deitel.cannongame:layout}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_queryBackground com.deitel.cannongame:queryBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_queryHint com.deitel.cannongame:queryHint}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_searchHintIcon com.deitel.cannongame:searchHintIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_searchIcon com.deitel.cannongame:searchIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_submitBackground com.deitel.cannongame:submitBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_suggestionRowLayout com.deitel.cannongame:suggestionRowLayout}</code></td><td></td></tr>
+         <tr><td><code>{@link #SearchView_voiceIcon com.deitel.cannongame:voiceIcon}</code></td><td></td></tr>
+         </table>
+         @see #SearchView_android_focusable
+         @see #SearchView_android_imeOptions
+         @see #SearchView_android_inputType
+         @see #SearchView_android_maxWidth
+         @see #SearchView_closeIcon
+         @see #SearchView_commitIcon
+         @see #SearchView_defaultQueryHint
+         @see #SearchView_goIcon
+         @see #SearchView_iconifiedByDefault
+         @see #SearchView_layout
+         @see #SearchView_queryBackground
+         @see #SearchView_queryHint
+         @see #SearchView_searchHintIcon
+         @see #SearchView_searchIcon
+         @see #SearchView_submitBackground
+         @see #SearchView_suggestionRowLayout
+         @see #SearchView_voiceIcon
          */
         public static final int[] SearchView = {
-            0x010100da, 0x0101011f, 0x01010220, 0x01010264,
-            0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d,
-            0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041,
-            0x7f010042, 0x7f010043, 0x7f010044, 0x7f010045,
-            0x7f010046
+                0x010100da, 0x0101011f, 0x01010220, 0x01010264,
+                0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d,
+                0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041,
+                0x7f010042, 0x7f010043, 0x7f010044, 0x7f010045,
+                0x7f010046
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#focusable}
-          attribute's value can be found in the {@link #SearchView} array.
-          @attr name android:focusable
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#focusable}
+         attribute's value can be found in the {@link #SearchView} array.
+         @attr name android:focusable
+         */
         public static final int SearchView_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
-          attribute's value can be found in the {@link #SearchView} array.
-          @attr name android:imeOptions
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#imeOptions}
+         attribute's value can be found in the {@link #SearchView} array.
+         @attr name android:imeOptions
+         */
         public static final int SearchView_android_imeOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#inputType}
-          attribute's value can be found in the {@link #SearchView} array.
-          @attr name android:inputType
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#inputType}
+         attribute's value can be found in the {@link #SearchView} array.
+         @attr name android:inputType
+         */
         public static final int SearchView_android_inputType = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
-          attribute's value can be found in the {@link #SearchView} array.
-          @attr name android:maxWidth
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#maxWidth}
+         attribute's value can be found in the {@link #SearchView} array.
+         @attr name android:maxWidth
+         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#closeIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:closeIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#closeIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:closeIcon
+         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#commitIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:commitIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#commitIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:commitIcon
+         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#defaultQueryHint}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:defaultQueryHint
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#defaultQueryHint}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:defaultQueryHint
+         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#goIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:goIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#goIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:goIcon
+         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#iconifiedByDefault}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:iconifiedByDefault
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#iconifiedByDefault}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:iconifiedByDefault
+         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#layout}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:layout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#layout}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:layout
+         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#queryBackground}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:queryBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#queryBackground}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:queryBackground
+         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#queryHint}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:queryHint
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#queryHint}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:queryHint
+         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchHintIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:searchHintIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchHintIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:searchHintIcon
+         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:searchIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:searchIcon
+         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#submitBackground}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:submitBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#submitBackground}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:submitBackground
+         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#suggestionRowLayout}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:suggestionRowLayout
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#suggestionRowLayout}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:suggestionRowLayout
+         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#voiceIcon}
-          attribute's value can be found in the {@link #SearchView} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:voiceIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#voiceIcon}
+         attribute's value can be found in the {@link #SearchView} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:voiceIcon
+         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
-           </table>
-           @see #Spinner_android_dropDownWidth
-           @see #Spinner_android_popupBackground
-           @see #Spinner_android_prompt
-           @see #Spinner_popupTheme
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
+         <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
+         <tr><td><code>{@link #Spinner_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
+         </table>
+         @see #Spinner_android_dropDownWidth
+         @see #Spinner_android_popupBackground
+         @see #Spinner_android_prompt
+         @see #Spinner_popupTheme
          */
         public static final int[] Spinner = {
-            0x01010176, 0x0101017b, 0x01010262, 0x7f01001b
+                0x01010176, 0x0101017b, 0x01010262, 0x7f01001b
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:dropDownWidth
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#dropDownWidth}
+         attribute's value can be found in the {@link #Spinner} array.
+         @attr name android:dropDownWidth
+         */
         public static final int Spinner_android_dropDownWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:popupBackground
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
+         attribute's value can be found in the {@link #Spinner} array.
+         @attr name android:popupBackground
+         */
         public static final int Spinner_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#prompt}
-          attribute's value can be found in the {@link #Spinner} array.
-          @attr name android:prompt
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#prompt}
+         attribute's value can be found in the {@link #Spinner} array.
+         @attr name android:prompt
+         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
-          attribute's value can be found in the {@link #Spinner} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:popupTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
+         attribute's value can be found in the {@link #Spinner} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:popupTheme
+         */
         public static final int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.deitel.cannongame:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.deitel.cannongame:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.deitel.cannongame:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.deitel.cannongame:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.deitel.cannongame:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.deitel.cannongame:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.deitel.cannongame:track}</code></td><td></td></tr>
-           </table>
-           @see #SwitchCompat_android_textOff
-           @see #SwitchCompat_android_textOn
-           @see #SwitchCompat_android_thumb
-           @see #SwitchCompat_showText
-           @see #SwitchCompat_splitTrack
-           @see #SwitchCompat_switchMinWidth
-           @see #SwitchCompat_switchPadding
-           @see #SwitchCompat_switchTextAppearance
-           @see #SwitchCompat_thumbTextPadding
-           @see #SwitchCompat_track
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_showText com.deitel.cannongame:showText}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_splitTrack com.deitel.cannongame:splitTrack}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_switchMinWidth com.deitel.cannongame:switchMinWidth}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_switchPadding com.deitel.cannongame:switchPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.deitel.cannongame:switchTextAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.deitel.cannongame:thumbTextPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #SwitchCompat_track com.deitel.cannongame:track}</code></td><td></td></tr>
+         </table>
+         @see #SwitchCompat_android_textOff
+         @see #SwitchCompat_android_textOn
+         @see #SwitchCompat_android_thumb
+         @see #SwitchCompat_showText
+         @see #SwitchCompat_splitTrack
+         @see #SwitchCompat_switchMinWidth
+         @see #SwitchCompat_switchPadding
+         @see #SwitchCompat_switchTextAppearance
+         @see #SwitchCompat_thumbTextPadding
+         @see #SwitchCompat_track
          */
         public static final int[] SwitchCompat = {
-            0x01010124, 0x01010125, 0x01010142, 0x7f010047,
-            0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b,
-            0x7f01004c, 0x7f01004d
+                0x01010124, 0x01010125, 0x01010142, 0x7f010047,
+                0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b,
+                0x7f01004c, 0x7f01004d
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textOff}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-          @attr name android:textOff
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textOff}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         @attr name android:textOff
+         */
         public static final int SwitchCompat_android_textOff = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textOn}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-          @attr name android:textOn
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textOn}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         @attr name android:textOn
+         */
         public static final int SwitchCompat_android_textOn = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#thumb}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-          @attr name android:thumb
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#thumb}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         @attr name android:thumb
+         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showText}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:showText
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#showText}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:showText
+         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#splitTrack}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:splitTrack
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#splitTrack}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:splitTrack
+         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchMinWidth}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:switchMinWidth
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchMinWidth}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:switchMinWidth
+         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchPadding}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:switchPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchPadding}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:switchPadding
+         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchTextAppearance}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:switchTextAppearance
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchTextAppearance}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:switchTextAppearance
+         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#thumbTextPadding}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:thumbTextPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#thumbTextPadding}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:thumbTextPadding
+         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#track}
-          attribute's value can be found in the {@link #SwitchCompat} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:track
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#track}
+         attribute's value can be found in the {@link #SwitchCompat} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:track
+         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TextAppearance_android_shadowColor android:shadowColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_textColor android:textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.deitel.cannongame:textAllCaps}</code></td><td></td></tr>
-           </table>
-           @see #TextAppearance_android_shadowColor
-           @see #TextAppearance_android_shadowDx
-           @see #TextAppearance_android_shadowDy
-           @see #TextAppearance_android_shadowRadius
-           @see #TextAppearance_android_textColor
-           @see #TextAppearance_android_textSize
-           @see #TextAppearance_android_textStyle
-           @see #TextAppearance_android_typeface
-           @see #TextAppearance_textAllCaps
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #TextAppearance_android_shadowColor android:shadowColor}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_textColor android:textColor}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
+         <tr><td><code>{@link #TextAppearance_textAllCaps com.deitel.cannongame:textAllCaps}</code></td><td></td></tr>
+         </table>
+         @see #TextAppearance_android_shadowColor
+         @see #TextAppearance_android_shadowDx
+         @see #TextAppearance_android_shadowDy
+         @see #TextAppearance_android_shadowRadius
+         @see #TextAppearance_android_textColor
+         @see #TextAppearance_android_textSize
+         @see #TextAppearance_android_textStyle
+         @see #TextAppearance_android_typeface
+         @see #TextAppearance_textAllCaps
          */
         public static final int[] TextAppearance = {
-            0x01010095, 0x01010096, 0x01010097, 0x01010098,
-            0x01010161, 0x01010162, 0x01010163, 0x01010164,
-            0x7f010024
+                0x01010095, 0x01010096, 0x01010097, 0x01010098,
+                0x01010161, 0x01010162, 0x01010163, 0x01010164,
+                0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:shadowColor
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#shadowColor}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:shadowColor
+         */
         public static final int TextAppearance_android_shadowColor = 4;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#shadowDx}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:shadowDx
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#shadowDx}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:shadowDx
+         */
         public static final int TextAppearance_android_shadowDx = 5;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#shadowDy}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:shadowDy
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#shadowDy}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:shadowDy
+         */
         public static final int TextAppearance_android_shadowDy = 6;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#shadowRadius}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:shadowRadius
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#shadowRadius}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:shadowRadius
+         */
         public static final int TextAppearance_android_shadowRadius = 7;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textColor}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textColor
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textColor}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:textColor
+         */
         public static final int TextAppearance_android_textColor = 3;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textSize}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textSize
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textSize}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:textSize
+         */
         public static final int TextAppearance_android_textSize = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#textStyle}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:textStyle
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#textStyle}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:textStyle
+         */
         public static final int TextAppearance_android_textStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#typeface}
-          attribute's value can be found in the {@link #TextAppearance} array.
-          @attr name android:typeface
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#typeface}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         @attr name android:typeface
+         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAllCaps}
-          attribute's value can be found in the {@link #TextAppearance} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.deitel.cannongame:textAllCaps
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAllCaps}
+         attribute's value can be found in the {@link #TextAppearance} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         @attr name com.deitel.cannongame:textAllCaps
+         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a Theme.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.deitel.cannongame:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.deitel.cannongame:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.deitel.cannongame:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.deitel.cannongame:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.deitel.cannongame:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.deitel.cannongame:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.deitel.cannongame:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.deitel.cannongame:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.deitel.cannongame:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.deitel.cannongame:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.deitel.cannongame:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.deitel.cannongame:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.deitel.cannongame:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.deitel.cannongame:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.deitel.cannongame:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.deitel.cannongame:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.deitel.cannongame:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.deitel.cannongame:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.deitel.cannongame:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.deitel.cannongame:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.deitel.cannongame:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.deitel.cannongame:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.deitel.cannongame:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.deitel.cannongame:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.deitel.cannongame:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.deitel.cannongame:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.deitel.cannongame:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.deitel.cannongame:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.deitel.cannongame:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.deitel.cannongame:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.deitel.cannongame:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.deitel.cannongame:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.deitel.cannongame:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.deitel.cannongame:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.deitel.cannongame:alertDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.deitel.cannongame:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.deitel.cannongame:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.deitel.cannongame:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.deitel.cannongame:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.deitel.cannongame:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.deitel.cannongame:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.deitel.cannongame:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.deitel.cannongame:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.deitel.cannongame:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.deitel.cannongame:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.deitel.cannongame:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.deitel.cannongame:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.deitel.cannongame:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.deitel.cannongame:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.deitel.cannongame:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.deitel.cannongame:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.deitel.cannongame:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.deitel.cannongame:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.deitel.cannongame:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.deitel.cannongame:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.deitel.cannongame:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.deitel.cannongame:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.deitel.cannongame:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.deitel.cannongame:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.deitel.cannongame:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.deitel.cannongame:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.deitel.cannongame:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.deitel.cannongame:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.deitel.cannongame:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.deitel.cannongame:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle com.deitel.cannongame:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.deitel.cannongame:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.deitel.cannongame:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.deitel.cannongame:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.deitel.cannongame:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.deitel.cannongame:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.deitel.cannongame:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.deitel.cannongame:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.deitel.cannongame:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.deitel.cannongame:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.deitel.cannongame:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.deitel.cannongame:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.deitel.cannongame:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.deitel.cannongame:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.deitel.cannongame:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.deitel.cannongame:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.deitel.cannongame:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle com.deitel.cannongame:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.deitel.cannongame:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.deitel.cannongame:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.deitel.cannongame:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.deitel.cannongame:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.deitel.cannongame:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.deitel.cannongame:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.deitel.cannongame:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.deitel.cannongame:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.deitel.cannongame:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.deitel.cannongame:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.deitel.cannongame:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.deitel.cannongame:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.deitel.cannongame:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.deitel.cannongame:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.deitel.cannongame:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.deitel.cannongame:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.deitel.cannongame:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.deitel.cannongame:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.deitel.cannongame:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.deitel.cannongame:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.deitel.cannongame:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.deitel.cannongame:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.deitel.cannongame:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.deitel.cannongame:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.deitel.cannongame:windowNoTitle}</code></td><td></td></tr>
-           </table>
-           @see #Theme_actionBarDivider
-           @see #Theme_actionBarItemBackground
-           @see #Theme_actionBarPopupTheme
-           @see #Theme_actionBarSize
-           @see #Theme_actionBarSplitStyle
-           @see #Theme_actionBarStyle
-           @see #Theme_actionBarTabBarStyle
-           @see #Theme_actionBarTabStyle
-           @see #Theme_actionBarTabTextStyle
-           @see #Theme_actionBarTheme
-           @see #Theme_actionBarWidgetTheme
-           @see #Theme_actionButtonStyle
-           @see #Theme_actionDropDownStyle
-           @see #Theme_actionMenuTextAppearance
-           @see #Theme_actionMenuTextColor
-           @see #Theme_actionModeBackground
-           @see #Theme_actionModeCloseButtonStyle
-           @see #Theme_actionModeCloseDrawable
-           @see #Theme_actionModeCopyDrawable
-           @see #Theme_actionModeCutDrawable
-           @see #Theme_actionModeFindDrawable
-           @see #Theme_actionModePasteDrawable
-           @see #Theme_actionModePopupWindowStyle
-           @see #Theme_actionModeSelectAllDrawable
-           @see #Theme_actionModeShareDrawable
-           @see #Theme_actionModeSplitBackground
-           @see #Theme_actionModeStyle
-           @see #Theme_actionModeWebSearchDrawable
-           @see #Theme_actionOverflowButtonStyle
-           @see #Theme_actionOverflowMenuStyle
-           @see #Theme_activityChooserViewStyle
-           @see #Theme_alertDialogButtonGroupStyle
-           @see #Theme_alertDialogCenterButtons
-           @see #Theme_alertDialogStyle
-           @see #Theme_alertDialogTheme
-           @see #Theme_android_windowAnimationStyle
-           @see #Theme_android_windowIsFloating
-           @see #Theme_autoCompleteTextViewStyle
-           @see #Theme_borderlessButtonStyle
-           @see #Theme_buttonBarButtonStyle
-           @see #Theme_buttonBarNegativeButtonStyle
-           @see #Theme_buttonBarNeutralButtonStyle
-           @see #Theme_buttonBarPositiveButtonStyle
-           @see #Theme_buttonBarStyle
-           @see #Theme_buttonStyle
-           @see #Theme_buttonStyleSmall
-           @see #Theme_checkboxStyle
-           @see #Theme_checkedTextViewStyle
-           @see #Theme_colorAccent
-           @see #Theme_colorButtonNormal
-           @see #Theme_colorControlActivated
-           @see #Theme_colorControlHighlight
-           @see #Theme_colorControlNormal
-           @see #Theme_colorPrimary
-           @see #Theme_colorPrimaryDark
-           @see #Theme_colorSwitchThumbNormal
-           @see #Theme_controlBackground
-           @see #Theme_dialogPreferredPadding
-           @see #Theme_dialogTheme
-           @see #Theme_dividerHorizontal
-           @see #Theme_dividerVertical
-           @see #Theme_dropDownListViewStyle
-           @see #Theme_dropdownListPreferredItemHeight
-           @see #Theme_editTextBackground
-           @see #Theme_editTextColor
-           @see #Theme_editTextStyle
-           @see #Theme_homeAsUpIndicator
-           @see #Theme_imageButtonStyle
-           @see #Theme_listChoiceBackgroundIndicator
-           @see #Theme_listDividerAlertDialog
-           @see #Theme_listPopupWindowStyle
-           @see #Theme_listPreferredItemHeight
-           @see #Theme_listPreferredItemHeightLarge
-           @see #Theme_listPreferredItemHeightSmall
-           @see #Theme_listPreferredItemPaddingLeft
-           @see #Theme_listPreferredItemPaddingRight
-           @see #Theme_panelBackground
-           @see #Theme_panelMenuListTheme
-           @see #Theme_panelMenuListWidth
-           @see #Theme_popupMenuStyle
-           @see #Theme_popupWindowStyle
-           @see #Theme_radioButtonStyle
-           @see #Theme_ratingBarStyle
-           @see #Theme_searchViewStyle
-           @see #Theme_seekBarStyle
-           @see #Theme_selectableItemBackground
-           @see #Theme_selectableItemBackgroundBorderless
-           @see #Theme_spinnerDropDownItemStyle
-           @see #Theme_spinnerStyle
-           @see #Theme_switchStyle
-           @see #Theme_textAppearanceLargePopupMenu
-           @see #Theme_textAppearanceListItem
-           @see #Theme_textAppearanceListItemSmall
-           @see #Theme_textAppearanceSearchResultSubtitle
-           @see #Theme_textAppearanceSearchResultTitle
-           @see #Theme_textAppearanceSmallPopupMenu
-           @see #Theme_textColorAlertDialogListItem
-           @see #Theme_textColorSearchUrl
-           @see #Theme_toolbarNavigationButtonStyle
-           @see #Theme_toolbarStyle
-           @see #Theme_windowActionBar
-           @see #Theme_windowActionBarOverlay
-           @see #Theme_windowActionModeOverlay
-           @see #Theme_windowFixedHeightMajor
-           @see #Theme_windowFixedHeightMinor
-           @see #Theme_windowFixedWidthMajor
-           @see #Theme_windowFixedWidthMinor
-           @see #Theme_windowMinWidthMajor
-           @see #Theme_windowMinWidthMinor
-           @see #Theme_windowNoTitle
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #Theme_actionBarDivider com.deitel.cannongame:actionBarDivider}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarItemBackground com.deitel.cannongame:actionBarItemBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarPopupTheme com.deitel.cannongame:actionBarPopupTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarSize com.deitel.cannongame:actionBarSize}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarSplitStyle com.deitel.cannongame:actionBarSplitStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarStyle com.deitel.cannongame:actionBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarTabBarStyle com.deitel.cannongame:actionBarTabBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarTabStyle com.deitel.cannongame:actionBarTabStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarTabTextStyle com.deitel.cannongame:actionBarTabTextStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarTheme com.deitel.cannongame:actionBarTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionBarWidgetTheme com.deitel.cannongame:actionBarWidgetTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionButtonStyle com.deitel.cannongame:actionButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionDropDownStyle com.deitel.cannongame:actionDropDownStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionMenuTextAppearance com.deitel.cannongame:actionMenuTextAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionMenuTextColor com.deitel.cannongame:actionMenuTextColor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeBackground com.deitel.cannongame:actionModeBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.deitel.cannongame:actionModeCloseButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeCloseDrawable com.deitel.cannongame:actionModeCloseDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeCopyDrawable com.deitel.cannongame:actionModeCopyDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeCutDrawable com.deitel.cannongame:actionModeCutDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeFindDrawable com.deitel.cannongame:actionModeFindDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModePasteDrawable com.deitel.cannongame:actionModePasteDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.deitel.cannongame:actionModePopupWindowStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.deitel.cannongame:actionModeSelectAllDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeShareDrawable com.deitel.cannongame:actionModeShareDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeSplitBackground com.deitel.cannongame:actionModeSplitBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeStyle com.deitel.cannongame:actionModeStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.deitel.cannongame:actionModeWebSearchDrawable}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.deitel.cannongame:actionOverflowButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.deitel.cannongame:actionOverflowMenuStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_activityChooserViewStyle com.deitel.cannongame:activityChooserViewStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.deitel.cannongame:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_alertDialogCenterButtons com.deitel.cannongame:alertDialogCenterButtons}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_alertDialogStyle com.deitel.cannongame:alertDialogStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_alertDialogTheme com.deitel.cannongame:alertDialogTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.deitel.cannongame:autoCompleteTextViewStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_borderlessButtonStyle com.deitel.cannongame:borderlessButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonBarButtonStyle com.deitel.cannongame:buttonBarButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.deitel.cannongame:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.deitel.cannongame:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.deitel.cannongame:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonBarStyle com.deitel.cannongame:buttonBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonStyle com.deitel.cannongame:buttonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_buttonStyleSmall com.deitel.cannongame:buttonStyleSmall}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_checkboxStyle com.deitel.cannongame:checkboxStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_checkedTextViewStyle com.deitel.cannongame:checkedTextViewStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorAccent com.deitel.cannongame:colorAccent}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorButtonNormal com.deitel.cannongame:colorButtonNormal}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorControlActivated com.deitel.cannongame:colorControlActivated}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorControlHighlight com.deitel.cannongame:colorControlHighlight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorControlNormal com.deitel.cannongame:colorControlNormal}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorPrimary com.deitel.cannongame:colorPrimary}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorPrimaryDark com.deitel.cannongame:colorPrimaryDark}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.deitel.cannongame:colorSwitchThumbNormal}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_controlBackground com.deitel.cannongame:controlBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dialogPreferredPadding com.deitel.cannongame:dialogPreferredPadding}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dialogTheme com.deitel.cannongame:dialogTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dividerHorizontal com.deitel.cannongame:dividerHorizontal}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dividerVertical com.deitel.cannongame:dividerVertical}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dropDownListViewStyle com.deitel.cannongame:dropDownListViewStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.deitel.cannongame:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_editTextBackground com.deitel.cannongame:editTextBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_editTextColor com.deitel.cannongame:editTextColor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_editTextStyle com.deitel.cannongame:editTextStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_homeAsUpIndicator com.deitel.cannongame:homeAsUpIndicator}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_imageButtonStyle com.deitel.cannongame:imageButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.deitel.cannongame:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listDividerAlertDialog com.deitel.cannongame:listDividerAlertDialog}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPopupWindowStyle com.deitel.cannongame:listPopupWindowStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPreferredItemHeight com.deitel.cannongame:listPreferredItemHeight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.deitel.cannongame:listPreferredItemHeightLarge}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.deitel.cannongame:listPreferredItemHeightSmall}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.deitel.cannongame:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.deitel.cannongame:listPreferredItemPaddingRight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_panelBackground com.deitel.cannongame:panelBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_panelMenuListTheme com.deitel.cannongame:panelMenuListTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_panelMenuListWidth com.deitel.cannongame:panelMenuListWidth}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_popupMenuStyle com.deitel.cannongame:popupMenuStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_popupWindowStyle com.deitel.cannongame:popupWindowStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_radioButtonStyle com.deitel.cannongame:radioButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_ratingBarStyle com.deitel.cannongame:ratingBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_searchViewStyle com.deitel.cannongame:searchViewStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_seekBarStyle com.deitel.cannongame:seekBarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_selectableItemBackground com.deitel.cannongame:selectableItemBackground}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.deitel.cannongame:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.deitel.cannongame:spinnerDropDownItemStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_spinnerStyle com.deitel.cannongame:spinnerStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_switchStyle com.deitel.cannongame:switchStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.deitel.cannongame:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceListItem com.deitel.cannongame:textAppearanceListItem}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.deitel.cannongame:textAppearanceListItemSmall}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.deitel.cannongame:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.deitel.cannongame:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.deitel.cannongame:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.deitel.cannongame:textColorAlertDialogListItem}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_textColorSearchUrl com.deitel.cannongame:textColorSearchUrl}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.deitel.cannongame:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_toolbarStyle com.deitel.cannongame:toolbarStyle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowActionBar com.deitel.cannongame:windowActionBar}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowActionBarOverlay com.deitel.cannongame:windowActionBarOverlay}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowActionModeOverlay com.deitel.cannongame:windowActionModeOverlay}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowFixedHeightMajor com.deitel.cannongame:windowFixedHeightMajor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowFixedHeightMinor com.deitel.cannongame:windowFixedHeightMinor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowFixedWidthMajor com.deitel.cannongame:windowFixedWidthMajor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowFixedWidthMinor com.deitel.cannongame:windowFixedWidthMinor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowMinWidthMajor com.deitel.cannongame:windowMinWidthMajor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowMinWidthMinor com.deitel.cannongame:windowMinWidthMinor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Theme_windowNoTitle com.deitel.cannongame:windowNoTitle}</code></td><td></td></tr>
+         </table>
+         @see #Theme_actionBarDivider
+         @see #Theme_actionBarItemBackground
+         @see #Theme_actionBarPopupTheme
+         @see #Theme_actionBarSize
+         @see #Theme_actionBarSplitStyle
+         @see #Theme_actionBarStyle
+         @see #Theme_actionBarTabBarStyle
+         @see #Theme_actionBarTabStyle
+         @see #Theme_actionBarTabTextStyle
+         @see #Theme_actionBarTheme
+         @see #Theme_actionBarWidgetTheme
+         @see #Theme_actionButtonStyle
+         @see #Theme_actionDropDownStyle
+         @see #Theme_actionMenuTextAppearance
+         @see #Theme_actionMenuTextColor
+         @see #Theme_actionModeBackground
+         @see #Theme_actionModeCloseButtonStyle
+         @see #Theme_actionModeCloseDrawable
+         @see #Theme_actionModeCopyDrawable
+         @see #Theme_actionModeCutDrawable
+         @see #Theme_actionModeFindDrawable
+         @see #Theme_actionModePasteDrawable
+         @see #Theme_actionModePopupWindowStyle
+         @see #Theme_actionModeSelectAllDrawable
+         @see #Theme_actionModeShareDrawable
+         @see #Theme_actionModeSplitBackground
+         @see #Theme_actionModeStyle
+         @see #Theme_actionModeWebSearchDrawable
+         @see #Theme_actionOverflowButtonStyle
+         @see #Theme_actionOverflowMenuStyle
+         @see #Theme_activityChooserViewStyle
+         @see #Theme_alertDialogButtonGroupStyle
+         @see #Theme_alertDialogCenterButtons
+         @see #Theme_alertDialogStyle
+         @see #Theme_alertDialogTheme
+         @see #Theme_android_windowAnimationStyle
+         @see #Theme_android_windowIsFloating
+         @see #Theme_autoCompleteTextViewStyle
+         @see #Theme_borderlessButtonStyle
+         @see #Theme_buttonBarButtonStyle
+         @see #Theme_buttonBarNegativeButtonStyle
+         @see #Theme_buttonBarNeutralButtonStyle
+         @see #Theme_buttonBarPositiveButtonStyle
+         @see #Theme_buttonBarStyle
+         @see #Theme_buttonStyle
+         @see #Theme_buttonStyleSmall
+         @see #Theme_checkboxStyle
+         @see #Theme_checkedTextViewStyle
+         @see #Theme_colorAccent
+         @see #Theme_colorButtonNormal
+         @see #Theme_colorControlActivated
+         @see #Theme_colorControlHighlight
+         @see #Theme_colorControlNormal
+         @see #Theme_colorPrimary
+         @see #Theme_colorPrimaryDark
+         @see #Theme_colorSwitchThumbNormal
+         @see #Theme_controlBackground
+         @see #Theme_dialogPreferredPadding
+         @see #Theme_dialogTheme
+         @see #Theme_dividerHorizontal
+         @see #Theme_dividerVertical
+         @see #Theme_dropDownListViewStyle
+         @see #Theme_dropdownListPreferredItemHeight
+         @see #Theme_editTextBackground
+         @see #Theme_editTextColor
+         @see #Theme_editTextStyle
+         @see #Theme_homeAsUpIndicator
+         @see #Theme_imageButtonStyle
+         @see #Theme_listChoiceBackgroundIndicator
+         @see #Theme_listDividerAlertDialog
+         @see #Theme_listPopupWindowStyle
+         @see #Theme_listPreferredItemHeight
+         @see #Theme_listPreferredItemHeightLarge
+         @see #Theme_listPreferredItemHeightSmall
+         @see #Theme_listPreferredItemPaddingLeft
+         @see #Theme_listPreferredItemPaddingRight
+         @see #Theme_panelBackground
+         @see #Theme_panelMenuListTheme
+         @see #Theme_panelMenuListWidth
+         @see #Theme_popupMenuStyle
+         @see #Theme_popupWindowStyle
+         @see #Theme_radioButtonStyle
+         @see #Theme_ratingBarStyle
+         @see #Theme_searchViewStyle
+         @see #Theme_seekBarStyle
+         @see #Theme_selectableItemBackground
+         @see #Theme_selectableItemBackgroundBorderless
+         @see #Theme_spinnerDropDownItemStyle
+         @see #Theme_spinnerStyle
+         @see #Theme_switchStyle
+         @see #Theme_textAppearanceLargePopupMenu
+         @see #Theme_textAppearanceListItem
+         @see #Theme_textAppearanceListItemSmall
+         @see #Theme_textAppearanceSearchResultSubtitle
+         @see #Theme_textAppearanceSearchResultTitle
+         @see #Theme_textAppearanceSmallPopupMenu
+         @see #Theme_textColorAlertDialogListItem
+         @see #Theme_textColorSearchUrl
+         @see #Theme_toolbarNavigationButtonStyle
+         @see #Theme_toolbarStyle
+         @see #Theme_windowActionBar
+         @see #Theme_windowActionBarOverlay
+         @see #Theme_windowActionModeOverlay
+         @see #Theme_windowFixedHeightMajor
+         @see #Theme_windowFixedHeightMinor
+         @see #Theme_windowFixedWidthMajor
+         @see #Theme_windowFixedWidthMinor
+         @see #Theme_windowMinWidthMajor
+         @see #Theme_windowMinWidthMinor
+         @see #Theme_windowNoTitle
          */
         public static final int[] Theme = {
-            0x01010057, 0x010100ae, 0x7f01004e, 0x7f01004f,
-            0x7f010050, 0x7f010051, 0x7f010052, 0x7f010053,
-            0x7f010054, 0x7f010055, 0x7f010056, 0x7f010057,
-            0x7f010058, 0x7f010059, 0x7f01005a, 0x7f01005b,
-            0x7f01005c, 0x7f01005d, 0x7f01005e, 0x7f01005f,
-            0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063,
-            0x7f010064, 0x7f010065, 0x7f010066, 0x7f010067,
-            0x7f010068, 0x7f010069, 0x7f01006a, 0x7f01006b,
-            0x7f01006c, 0x7f01006d, 0x7f01006e, 0x7f01006f,
-            0x7f010070, 0x7f010071, 0x7f010072, 0x7f010073,
-            0x7f010074, 0x7f010075, 0x7f010076, 0x7f010077,
-            0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
-            0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
-            0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
-            0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087,
-            0x7f010088, 0x7f010089, 0x7f01008a, 0x7f01008b,
-            0x7f01008c, 0x7f01008d, 0x7f01008e, 0x7f01008f,
-            0x7f010090, 0x7f010091, 0x7f010092, 0x7f010093,
-            0x7f010094, 0x7f010095, 0x7f010096, 0x7f010097,
-            0x7f010098, 0x7f010099, 0x7f01009a, 0x7f01009b,
-            0x7f01009c, 0x7f01009d, 0x7f01009e, 0x7f01009f,
-            0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3,
-            0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7,
-            0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab,
-            0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af,
-            0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3,
-            0x7f0100b4, 0x7f0100b5, 0x7f0100b6, 0x7f0100b7,
-            0x7f0100b8, 0x7f0100b9
+                0x01010057, 0x010100ae, 0x7f01004e, 0x7f01004f,
+                0x7f010050, 0x7f010051, 0x7f010052, 0x7f010053,
+                0x7f010054, 0x7f010055, 0x7f010056, 0x7f010057,
+                0x7f010058, 0x7f010059, 0x7f01005a, 0x7f01005b,
+                0x7f01005c, 0x7f01005d, 0x7f01005e, 0x7f01005f,
+                0x7f010060, 0x7f010061, 0x7f010062, 0x7f010063,
+                0x7f010064, 0x7f010065, 0x7f010066, 0x7f010067,
+                0x7f010068, 0x7f010069, 0x7f01006a, 0x7f01006b,
+                0x7f01006c, 0x7f01006d, 0x7f01006e, 0x7f01006f,
+                0x7f010070, 0x7f010071, 0x7f010072, 0x7f010073,
+                0x7f010074, 0x7f010075, 0x7f010076, 0x7f010077,
+                0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
+                0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
+                0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
+                0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087,
+                0x7f010088, 0x7f010089, 0x7f01008a, 0x7f01008b,
+                0x7f01008c, 0x7f01008d, 0x7f01008e, 0x7f01008f,
+                0x7f010090, 0x7f010091, 0x7f010092, 0x7f010093,
+                0x7f010094, 0x7f010095, 0x7f010096, 0x7f010097,
+                0x7f010098, 0x7f010099, 0x7f01009a, 0x7f01009b,
+                0x7f01009c, 0x7f01009d, 0x7f01009e, 0x7f01009f,
+                0x7f0100a0, 0x7f0100a1, 0x7f0100a2, 0x7f0100a3,
+                0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7,
+                0x7f0100a8, 0x7f0100a9, 0x7f0100aa, 0x7f0100ab,
+                0x7f0100ac, 0x7f0100ad, 0x7f0100ae, 0x7f0100af,
+                0x7f0100b0, 0x7f0100b1, 0x7f0100b2, 0x7f0100b3,
+                0x7f0100b4, 0x7f0100b5, 0x7f0100b6, 0x7f0100b7,
+                0x7f0100b8, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarDivider}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarDivider
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarDivider}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarDivider
+         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarItemBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarItemBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarItemBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarItemBackground
+         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarPopupTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarPopupTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarPopupTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarPopupTheme
+         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarSize}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-<p>May be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:actionBarSize
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarSize}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         <p>May be one of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:actionBarSize
+         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarSplitStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarSplitStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarSplitStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarSplitStyle
+         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarStyle
+         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarTabBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabBarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarTabBarStyle
+         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarTabStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarTabStyle
+         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabTextStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarTabTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTabTextStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarTabTextStyle
+         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarTheme
+         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarWidgetTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionBarWidgetTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionBarWidgetTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionBarWidgetTheme
+         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionButtonStyle
+         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionDropDownStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionDropDownStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionDropDownStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionDropDownStyle
+         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionMenuTextAppearance}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionMenuTextAppearance
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionMenuTextAppearance}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionMenuTextAppearance
+         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionMenuTextColor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:actionMenuTextColor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionMenuTextColor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:actionMenuTextColor
+         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeBackground
+         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCloseButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeCloseButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCloseButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeCloseButtonStyle
+         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCloseDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeCloseDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCloseDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeCloseDrawable
+         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCopyDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeCopyDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCopyDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeCopyDrawable
+         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCutDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeCutDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeCutDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeCutDrawable
+         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeFindDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeFindDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeFindDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeFindDrawable
+         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModePasteDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModePasteDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModePasteDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModePasteDrawable
+         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModePopupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModePopupWindowStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModePopupWindowStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModePopupWindowStyle
+         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeSelectAllDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeSelectAllDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeSelectAllDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeSelectAllDrawable
+         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeShareDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeShareDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeShareDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeShareDrawable
+         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeSplitBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeSplitBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeSplitBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeSplitBackground
+         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeStyle
+         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeWebSearchDrawable}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionModeWebSearchDrawable
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionModeWebSearchDrawable}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionModeWebSearchDrawable
+         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionOverflowButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionOverflowButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionOverflowButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionOverflowButtonStyle
+         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionOverflowMenuStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:actionOverflowMenuStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#actionOverflowMenuStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:actionOverflowMenuStyle
+         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#activityChooserViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:activityChooserViewStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#activityChooserViewStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:activityChooserViewStyle
+         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogButtonGroupStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:alertDialogButtonGroupStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogButtonGroupStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:alertDialogButtonGroupStyle
+         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogCenterButtons}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:alertDialogCenterButtons
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogCenterButtons}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:alertDialogCenterButtons
+         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:alertDialogStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:alertDialogStyle
+         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:alertDialogTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#alertDialogTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:alertDialogTheme
+         */
         public static final int Theme_alertDialogTheme = 94;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
-          attribute's value can be found in the {@link #Theme} array.
-          @attr name android:windowAnimationStyle
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         @attr name android:windowAnimationStyle
+         */
         public static final int Theme_android_windowAnimationStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
-          attribute's value can be found in the {@link #Theme} array.
-          @attr name android:windowIsFloating
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
+         attribute's value can be found in the {@link #Theme} array.
+         @attr name android:windowIsFloating
+         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#autoCompleteTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:autoCompleteTextViewStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#autoCompleteTextViewStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:autoCompleteTextViewStyle
+         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#borderlessButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:borderlessButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#borderlessButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:borderlessButtonStyle
+         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonBarButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonBarButtonStyle
+         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarNegativeButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonBarNegativeButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarNegativeButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonBarNegativeButtonStyle
+         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarNeutralButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonBarNeutralButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarNeutralButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonBarNeutralButtonStyle
+         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarPositiveButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonBarPositiveButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarPositiveButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonBarPositiveButtonStyle
+         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonBarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonBarStyle
+         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonStyle
+         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonStyleSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:buttonStyleSmall
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#buttonStyleSmall}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:buttonStyleSmall
+         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#checkboxStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:checkboxStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#checkboxStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:checkboxStyle
+         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#checkedTextViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:checkedTextViewStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#checkedTextViewStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:checkedTextViewStyle
+         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorAccent}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorAccent
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorAccent}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorAccent
+         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorButtonNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorButtonNormal
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorButtonNormal}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorButtonNormal
+         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlActivated}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorControlActivated
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlActivated}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorControlActivated
+         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlHighlight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorControlHighlight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlHighlight}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorControlHighlight
+         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorControlNormal
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorControlNormal}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorControlNormal
+         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorPrimary}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorPrimary
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorPrimary}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorPrimary
+         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorPrimaryDark}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorPrimaryDark
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorPrimaryDark}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorPrimaryDark
+         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorSwitchThumbNormal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:colorSwitchThumbNormal
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#colorSwitchThumbNormal}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:colorSwitchThumbNormal
+         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#controlBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:controlBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#controlBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:controlBackground
+         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dialogPreferredPadding}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:dialogPreferredPadding
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dialogPreferredPadding}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:dialogPreferredPadding
+         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dialogTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:dialogTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dialogTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:dialogTheme
+         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerHorizontal}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:dividerHorizontal
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerHorizontal}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:dividerHorizontal
+         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerVertical}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:dividerVertical
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dividerVertical}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:dividerVertical
+         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dropDownListViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:dropDownListViewStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dropDownListViewStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:dropDownListViewStyle
+         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dropdownListPreferredItemHeight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:dropdownListPreferredItemHeight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#dropdownListPreferredItemHeight}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:dropdownListPreferredItemHeight
+         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:editTextBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:editTextBackground
+         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextColor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:editTextColor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextColor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:editTextColor
+         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:editTextStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#editTextStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:editTextStyle
+         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeAsUpIndicator}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:homeAsUpIndicator
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#homeAsUpIndicator}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:homeAsUpIndicator
+         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#imageButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:imageButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#imageButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:imageButtonStyle
+         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listChoiceBackgroundIndicator}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:listChoiceBackgroundIndicator
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listChoiceBackgroundIndicator}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:listChoiceBackgroundIndicator
+         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listDividerAlertDialog}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:listDividerAlertDialog
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listDividerAlertDialog}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:listDividerAlertDialog
+         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPopupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:listPopupWindowStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPopupWindowStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:listPopupWindowStyle
+         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:listPreferredItemHeight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeight}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:listPreferredItemHeight
+         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeightLarge}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:listPreferredItemHeightLarge
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeightLarge}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:listPreferredItemHeightLarge
+         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeightSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:listPreferredItemHeightSmall
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemHeightSmall}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:listPreferredItemHeightSmall
+         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemPaddingLeft}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:listPreferredItemPaddingLeft
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemPaddingLeft}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:listPreferredItemPaddingLeft
+         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemPaddingRight}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:listPreferredItemPaddingRight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#listPreferredItemPaddingRight}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:listPreferredItemPaddingRight
+         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:panelBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:panelBackground
+         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelMenuListTheme}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:panelMenuListTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelMenuListTheme}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:panelMenuListTheme
+         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelMenuListWidth}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:panelMenuListWidth
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#panelMenuListWidth}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:panelMenuListWidth
+         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupMenuStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:popupMenuStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupMenuStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:popupMenuStyle
+         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupWindowStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:popupWindowStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupWindowStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:popupWindowStyle
+         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#radioButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:radioButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#radioButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:radioButtonStyle
+         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#ratingBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:ratingBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#ratingBarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:ratingBarStyle
+         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchViewStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:searchViewStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#searchViewStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:searchViewStyle
+         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#seekBarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:seekBarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#seekBarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:seekBarStyle
+         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#selectableItemBackground}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:selectableItemBackground
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#selectableItemBackground}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:selectableItemBackground
+         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#selectableItemBackgroundBorderless}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:selectableItemBackgroundBorderless
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#selectableItemBackgroundBorderless}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:selectableItemBackgroundBorderless
+         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinnerDropDownItemStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:spinnerDropDownItemStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinnerDropDownItemStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:spinnerDropDownItemStyle
+         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinnerStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:spinnerStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#spinnerStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:spinnerStyle
+         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:switchStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#switchStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:switchStyle
+         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceLargePopupMenu}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceLargePopupMenu
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceLargePopupMenu}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceLargePopupMenu
+         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceListItem}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceListItem
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceListItem}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceListItem
+         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceListItemSmall}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceListItemSmall
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceListItemSmall}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceListItemSmall
+         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSearchResultSubtitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceSearchResultSubtitle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSearchResultSubtitle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceSearchResultSubtitle
+         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSearchResultTitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceSearchResultTitle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSearchResultTitle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceSearchResultTitle
+         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSmallPopupMenu}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:textAppearanceSmallPopupMenu
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textAppearanceSmallPopupMenu}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:textAppearanceSmallPopupMenu
+         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textColorAlertDialogListItem}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:textColorAlertDialogListItem
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textColorAlertDialogListItem}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:textColorAlertDialogListItem
+         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textColorSearchUrl}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-<p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.deitel.cannongame:textColorSearchUrl
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#textColorSearchUrl}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         @attr name com.deitel.cannongame:textColorSearchUrl
+         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#toolbarNavigationButtonStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:toolbarNavigationButtonStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#toolbarNavigationButtonStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:toolbarNavigationButtonStyle
+         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#toolbarStyle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:toolbarStyle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#toolbarStyle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:toolbarStyle
+         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionBar}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowActionBar
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionBar}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowActionBar
+         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionBarOverlay}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowActionBarOverlay
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionBarOverlay}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowActionBarOverlay
+         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionModeOverlay}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowActionModeOverlay
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowActionModeOverlay}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowActionModeOverlay
+         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedHeightMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowFixedHeightMajor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedHeightMajor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowFixedHeightMajor
+         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedHeightMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowFixedHeightMinor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedHeightMinor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowFixedHeightMinor
+         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedWidthMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowFixedWidthMajor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedWidthMajor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowFixedWidthMajor
+         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedWidthMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowFixedWidthMinor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowFixedWidthMinor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowFixedWidthMinor
+         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowMinWidthMajor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowMinWidthMajor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowMinWidthMajor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowMinWidthMajor
+         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowMinWidthMinor}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
-The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
-some parent container.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowMinWidthMinor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowMinWidthMinor}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
+         The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
+         some parent container.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowMinWidthMinor
+         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowNoTitle}
-          attribute's value can be found in the {@link #Theme} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:windowNoTitle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#windowNoTitle}
+         attribute's value can be found in the {@link #Theme} array.
+         <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:windowNoTitle
+         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.deitel.cannongame:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.deitel.cannongame:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.deitel.cannongame:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.deitel.cannongame:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.deitel.cannongame:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.deitel.cannongame:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.deitel.cannongame:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.deitel.cannongame:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.deitel.cannongame:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.deitel.cannongame:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.deitel.cannongame:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.deitel.cannongame:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.deitel.cannongame:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.deitel.cannongame:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.deitel.cannongame:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.deitel.cannongame:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.deitel.cannongame:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.deitel.cannongame:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.deitel.cannongame:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.deitel.cannongame:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.deitel.cannongame:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.deitel.cannongame:titleTextColor}</code></td><td></td></tr>
-           </table>
-           @see #Toolbar_android_gravity
-           @see #Toolbar_android_minHeight
-           @see #Toolbar_collapseContentDescription
-           @see #Toolbar_collapseIcon
-           @see #Toolbar_contentInsetEnd
-           @see #Toolbar_contentInsetLeft
-           @see #Toolbar_contentInsetRight
-           @see #Toolbar_contentInsetStart
-           @see #Toolbar_logo
-           @see #Toolbar_logoDescription
-           @see #Toolbar_maxButtonHeight
-           @see #Toolbar_navigationContentDescription
-           @see #Toolbar_navigationIcon
-           @see #Toolbar_popupTheme
-           @see #Toolbar_subtitle
-           @see #Toolbar_subtitleTextAppearance
-           @see #Toolbar_subtitleTextColor
-           @see #Toolbar_title
-           @see #Toolbar_titleMarginBottom
-           @see #Toolbar_titleMarginEnd
-           @see #Toolbar_titleMarginStart
-           @see #Toolbar_titleMarginTop
-           @see #Toolbar_titleMargins
-           @see #Toolbar_titleTextAppearance
-           @see #Toolbar_titleTextColor
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_collapseContentDescription com.deitel.cannongame:collapseContentDescription}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_collapseIcon com.deitel.cannongame:collapseIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_contentInsetEnd com.deitel.cannongame:contentInsetEnd}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_contentInsetLeft com.deitel.cannongame:contentInsetLeft}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_contentInsetRight com.deitel.cannongame:contentInsetRight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_contentInsetStart com.deitel.cannongame:contentInsetStart}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_logo com.deitel.cannongame:logo}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_logoDescription com.deitel.cannongame:logoDescription}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_maxButtonHeight com.deitel.cannongame:maxButtonHeight}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_navigationContentDescription com.deitel.cannongame:navigationContentDescription}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_navigationIcon com.deitel.cannongame:navigationIcon}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_popupTheme com.deitel.cannongame:popupTheme}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_subtitle com.deitel.cannongame:subtitle}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.deitel.cannongame:subtitleTextAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_subtitleTextColor com.deitel.cannongame:subtitleTextColor}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_title com.deitel.cannongame:title}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleMarginBottom com.deitel.cannongame:titleMarginBottom}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleMarginEnd com.deitel.cannongame:titleMarginEnd}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleMarginStart com.deitel.cannongame:titleMarginStart}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleMarginTop com.deitel.cannongame:titleMarginTop}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleMargins com.deitel.cannongame:titleMargins}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleTextAppearance com.deitel.cannongame:titleTextAppearance}</code></td><td></td></tr>
+         <tr><td><code>{@link #Toolbar_titleTextColor com.deitel.cannongame:titleTextColor}</code></td><td></td></tr>
+         </table>
+         @see #Toolbar_android_gravity
+         @see #Toolbar_android_minHeight
+         @see #Toolbar_collapseContentDescription
+         @see #Toolbar_collapseIcon
+         @see #Toolbar_contentInsetEnd
+         @see #Toolbar_contentInsetLeft
+         @see #Toolbar_contentInsetRight
+         @see #Toolbar_contentInsetStart
+         @see #Toolbar_logo
+         @see #Toolbar_logoDescription
+         @see #Toolbar_maxButtonHeight
+         @see #Toolbar_navigationContentDescription
+         @see #Toolbar_navigationIcon
+         @see #Toolbar_popupTheme
+         @see #Toolbar_subtitle
+         @see #Toolbar_subtitleTextAppearance
+         @see #Toolbar_subtitleTextColor
+         @see #Toolbar_title
+         @see #Toolbar_titleMarginBottom
+         @see #Toolbar_titleMarginEnd
+         @see #Toolbar_titleMarginStart
+         @see #Toolbar_titleMarginTop
+         @see #Toolbar_titleMargins
+         @see #Toolbar_titleTextAppearance
+         @see #Toolbar_titleTextColor
          */
         public static final int[] Toolbar = {
-            0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
-            0x7f01000a, 0x7f010016, 0x7f010017, 0x7f010018,
-            0x7f010019, 0x7f01001b, 0x7f0100ba, 0x7f0100bb,
-            0x7f0100bc, 0x7f0100bd, 0x7f0100be, 0x7f0100bf,
-            0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3,
-            0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7,
-            0x7f0100c8
+                0x010100af, 0x01010140, 0x7f010003, 0x7f010006,
+                0x7f01000a, 0x7f010016, 0x7f010017, 0x7f010018,
+                0x7f010019, 0x7f01001b, 0x7f0100ba, 0x7f0100bb,
+                0x7f0100bc, 0x7f0100bd, 0x7f0100be, 0x7f0100bf,
+                0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3,
+                0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7,
+                0x7f0100c8
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#gravity}
-          attribute's value can be found in the {@link #Toolbar} array.
-          @attr name android:gravity
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#gravity}
+         attribute's value can be found in the {@link #Toolbar} array.
+         @attr name android:gravity
+         */
         public static final int Toolbar_android_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#minHeight}
-          attribute's value can be found in the {@link #Toolbar} array.
-          @attr name android:minHeight
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#minHeight}
+         attribute's value can be found in the {@link #Toolbar} array.
+         @attr name android:minHeight
+         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#collapseContentDescription}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:collapseContentDescription
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#collapseContentDescription}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:collapseContentDescription
+         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#collapseIcon}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:collapseIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#collapseIcon}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:collapseIcon
+         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetEnd}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetEnd
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetEnd}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetEnd
+         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetLeft}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetLeft
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetLeft}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetLeft
+         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetRight}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetRight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetRight}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetRight
+         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetStart}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:contentInsetStart
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#contentInsetStart}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:contentInsetStart
+         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logo}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:logo
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logo}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:logo
+         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logoDescription}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:logoDescription
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#logoDescription}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:logoDescription
+         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#maxButtonHeight}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:maxButtonHeight
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#maxButtonHeight}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:maxButtonHeight
+         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationContentDescription}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:navigationContentDescription
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationContentDescription}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:navigationContentDescription
+         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationIcon}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:navigationIcon
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#navigationIcon}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:navigationIcon
+         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:popupTheme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#popupTheme}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:popupTheme
+         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitle}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:subtitle
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitle}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:subtitle
+         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextAppearance}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:subtitleTextAppearance
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextAppearance}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:subtitleTextAppearance
+         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextColor}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:subtitleTextColor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#subtitleTextColor}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:subtitleTextColor
+         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#title}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:title
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#title}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:title
+         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginBottom}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleMarginBottom
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginBottom}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleMarginBottom
+         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginEnd}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleMarginEnd
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginEnd}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleMarginEnd
+         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginStart}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleMarginStart
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginStart}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleMarginStart
+         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginTop}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleMarginTop
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMarginTop}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleMarginTop
+         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMargins}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleMargins
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleMargins}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleMargins
+         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextAppearance}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:titleTextAppearance
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextAppearance}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:titleTextAppearance
+         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextColor}
-          attribute's value can be found in the {@link #Toolbar} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:titleTextColor
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#titleTextColor}
+         attribute's value can be found in the {@link #Toolbar} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:titleTextColor
+         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.deitel.cannongame:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.deitel.cannongame:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.deitel.cannongame:theme}</code></td><td></td></tr>
-           </table>
-           @see #View_android_focusable
-           @see #View_android_theme
-           @see #View_paddingEnd
-           @see #View_paddingStart
-           @see #View_theme
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
+         <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
+         <tr><td><code>{@link #View_paddingEnd com.deitel.cannongame:paddingEnd}</code></td><td></td></tr>
+         <tr><td><code>{@link #View_paddingStart com.deitel.cannongame:paddingStart}</code></td><td></td></tr>
+         <tr><td><code>{@link #View_theme com.deitel.cannongame:theme}</code></td><td></td></tr>
+         </table>
+         @see #View_android_focusable
+         @see #View_android_theme
+         @see #View_paddingEnd
+         @see #View_paddingStart
+         @see #View_theme
          */
         public static final int[] View = {
-            0x01010000, 0x010100da, 0x7f0100c9, 0x7f0100ca,
-            0x7f0100cb
+                0x01010000, 0x010100da, 0x7f0100c9, 0x7f0100ca,
+                0x7f0100cb
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#focusable}
-          attribute's value can be found in the {@link #View} array.
-          @attr name android:focusable
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#focusable}
+         attribute's value can be found in the {@link #View} array.
+         @attr name android:focusable
+         */
         public static final int View_android_focusable = 1;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-          @attr name android:theme
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#theme}
+         attribute's value can be found in the {@link #View} array.
+         @attr name android:theme
+         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#paddingEnd}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:paddingEnd
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#paddingEnd}
+         attribute's value can be found in the {@link #View} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:paddingEnd
+         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#paddingStart}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:paddingStart
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#paddingStart}
+         attribute's value can be found in the {@link #View} array.
+         <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
+         Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
+         in (inches), mm (millimeters).
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:paddingStart
+         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#theme}
-          attribute's value can be found in the {@link #View} array.
-
-
-          <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
-or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.deitel.cannongame:theme
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#theme}
+         attribute's value can be found in the {@link #View} array.
+         <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
+         or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
+         @attr name com.deitel.cannongame:theme
+         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.deitel.cannongame:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.deitel.cannongame:backgroundTintMode}</code></td><td></td></tr>
-           </table>
-           @see #ViewBackgroundHelper_android_background
-           @see #ViewBackgroundHelper_backgroundTint
-           @see #ViewBackgroundHelper_backgroundTintMode
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
+         <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.deitel.cannongame:backgroundTint}</code></td><td></td></tr>
+         <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.deitel.cannongame:backgroundTintMode}</code></td><td></td></tr>
+         </table>
+         @see #ViewBackgroundHelper_android_background
+         @see #ViewBackgroundHelper_backgroundTint
+         @see #ViewBackgroundHelper_backgroundTintMode
          */
         public static final int[] ViewBackgroundHelper = {
-            0x010100d4, 0x7f0100cc, 0x7f0100cd
+                0x010100d4, 0x7f0100cc, 0x7f0100cd
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#background}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-          @attr name android:background
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#background}
+         attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+         @attr name android:background
+         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundTint}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name com.deitel.cannongame:backgroundTint
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundTint}
+         attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+         <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
+         "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
+         <p>This may also be a reference to a resource (in the form
+         "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
+         theme attribute (in the form
+         "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
+         containing a value of this type.
+         @attr name com.deitel.cannongame:backgroundTint
+         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundTintMode}
-          attribute's value can be found in the {@link #ViewBackgroundHelper} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>src_over</code></td><td>3</td><td></td></tr>
-<tr><td><code>src_in</code></td><td>5</td><td></td></tr>
-<tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
-<tr><td><code>multiply</code></td><td>14</td><td></td></tr>
-<tr><td><code>screen</code></td><td>15</td><td></td></tr>
-</table>
-          @attr name com.deitel.cannongame:backgroundTintMode
-        */
+         <p>This symbol is the offset where the {@link com.deitel.cannongame.R.attr#backgroundTintMode}
+         attribute's value can be found in the {@link #ViewBackgroundHelper} array.
+         <p>Must be one of the following constant values.</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
+         <tr><td><code>src_over</code></td><td>3</td><td></td></tr>
+         <tr><td><code>src_in</code></td><td>5</td><td></td></tr>
+         <tr><td><code>src_atop</code></td><td>9</td><td></td></tr>
+         <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
+         <tr><td><code>screen</code></td><td>15</td><td></td></tr>
+         </table>
+         @attr name com.deitel.cannongame:backgroundTintMode
+         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
-           <p>Includes the following attributes:</p>
-           <table>
-           <colgroup align="left" />
-           <colgroup align="left" />
-           <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_id android:id}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_inflatedId android:inflatedId}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewStubCompat_android_layout android:layout}</code></td><td></td></tr>
-           </table>
-           @see #ViewStubCompat_android_id
-           @see #ViewStubCompat_android_inflatedId
-           @see #ViewStubCompat_android_layout
+         <p>Includes the following attributes:</p>
+         <table>
+         <colgroup align="left" />
+         <colgroup align="left" />
+         <tr><th>Attribute</th><th>Description</th></tr>
+         <tr><td><code>{@link #ViewStubCompat_android_id android:id}</code></td><td></td></tr>
+         <tr><td><code>{@link #ViewStubCompat_android_inflatedId android:inflatedId}</code></td><td></td></tr>
+         <tr><td><code>{@link #ViewStubCompat_android_layout android:layout}</code></td><td></td></tr>
+         </table>
+         @see #ViewStubCompat_android_id
+         @see #ViewStubCompat_android_inflatedId
+         @see #ViewStubCompat_android_layout
          */
         public static final int[] ViewStubCompat = {
-            0x010100d0, 0x010100f2, 0x010100f3
+                0x010100d0, 0x010100f2, 0x010100f3
         };
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#id}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:id
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#id}
+         attribute's value can be found in the {@link #ViewStubCompat} array.
+         @attr name android:id
+         */
         public static final int ViewStubCompat_android_id = 0;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:inflatedId
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#inflatedId}
+         attribute's value can be found in the {@link #ViewStubCompat} array.
+         @attr name android:inflatedId
+         */
         public static final int ViewStubCompat_android_inflatedId = 2;
         /**
-          <p>This symbol is the offset where the {@link android.R.attr#layout}
-          attribute's value can be found in the {@link #ViewStubCompat} array.
-          @attr name android:layout
-        */
+         <p>This symbol is the offset where the {@link android.R.attr#layout}
+         attribute's value can be found in the {@link #ViewStubCompat} array.
+         @attr name android:layout
+         */
         public static final int ViewStubCompat_android_layout = 1;
     };
 }

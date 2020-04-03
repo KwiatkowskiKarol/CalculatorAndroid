@@ -5,6 +5,10 @@ package com.s15752.CalculatorBMI;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
 
+import com.learn2crack.activities.R;
+
+
+
 public class SettingsActivityFragment extends PreferenceFragment {
    // creates preferences GUI from preferences.xml file in res/xml
    @Override
